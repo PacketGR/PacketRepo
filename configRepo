@@ -5,21 +5,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ed22e271-23d2-4a67-9e49-9eecd0a3491b@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=ht6.shirazpc.site&path=%2Fxui6#USA11"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTMTAwIiwNCiAgImFkZCI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI4MmU5MjZiOS04NDYyLTRlN2EtYWMxMy1jNzI1MTg3MWZiOGQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzLW5ldzAyLmd1anVqaS50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ed22e271-23d2-4a67-9e49-9eecd0a3491b@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=ht6.shirazpc.site&path=%2Fxui6#USA12"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTOTAxIiwNCiAgImFkZCI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNTRhOTI4NjItZmFiMS00NDdlLWIyOTAtZDdhYTA2ZjU5MjViIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXNwei5lZGdlLjIzMy50dyIsDQogICJwYXRoIjogIi9nZWcvNDQ/ZWQ9MjA0OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ=="
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ed22e271-23d2-4a67-9e49-9eecd0a3491b@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=ht6.shirazpc.site&path=%2Fxui6#USA13"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTODMxIiwNCiAgImFkZCI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI4MmU5MjZiOS04NDYyLTRlN2EtYWMxMy1jNzI1MTg3MWZiOGQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzLW5ldzAzLmd1anVqaS50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9"
                 },
 		{
 		    "id"          : 4,
