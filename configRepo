@@ -5,21 +5,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTMTAwIiwNCiAgImFkZCI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI4MmU5MjZiOS04NDYyLTRlN2EtYWMxMy1jNzI1MTg3MWZiOGQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzLW5ldzAyLmd1anVqaS50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9"
+                    "config"      : "vless://a20dc8d2-d8d3-4d62-af16-c16e4b84a213@scale360.colocrossing.sbs:443?encryption=none&security=tls&sni=fifadaysreview.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fifadaysreview.colocrossing.sbs&path=%2Ffifaws#AMOGR1"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTOTAxIiwNCiAgImFkZCI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNTRhOTI4NjItZmFiMS00NDdlLWIyOTAtZDdhYTA2ZjU5MjViIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXNwei5lZGdlLjIzMy50dyIsDQogICJwYXRoIjogIi9nZWcvNDQ/ZWQ9MjA0OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ=="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT0dSMiIsDQogICJhZGQiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMjBkYzhkMi1kOGQzLTRkNjItYWYxNi1jMTZlNGI4NGEyMTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogInplcm8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZpZmFkYXlzcmV2aWV3LmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvZmlmYXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmaWZhZGF5c3Jldmlldy5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiZWRnZSINCn0="
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTODMxIiwNCiAgImFkZCI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI4MmU5MjZiOS04NDYyLTRlN2EtYWMxMy1jNzI1MTg3MWZiOGQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzLW5ldzAzLmd1anVqaS50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9"
+                    "config"      : "vless://a20dc8d2-d8d3-4d62-af16-c16e4b84a213@scale360.colocrossing.sbs:443?encryption=none&security=tls&sni=fifadaysreview.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fifadaysreview.colocrossing.sbs&path=%2Ffifaws#AMOGR1"
                 },
 		{
 		    "id"          : 4,
