@@ -96,28 +96,35 @@
                     "symbol"      : "SP",
                     "countryName" : "Spain",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT0FVMiIsDQogICJhZGQiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxYjYxMGVhNi1lZDdhLTRlNjYtYmZlMy00NDcxYTkyOTI0OWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJtaXN0eW1hbjEuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9jaGVsc2VhdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm1pc3R5bWFuMS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                    "config"      : "vless://584181cb-f0c5-4df1-a4bf-6071a0fd1457@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=brunette-partial-deal-citizens.trycloudflare.com&path=%2F%3Fed%3D2048#France%2081"
                 },
 		{
                     "id"          : 15,
                     "symbol"      : "SP",
                     "countryName" : "Spain",
                     "ping"        : 0,
-                    "config"      : "vless://1b610ea6-ed7a-4e66-bfe3-4471a929249c@scale360.colocrossing.sbs:443?encryption=none&security=tls&sni=mistyman1.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=mistyman1.colocrossing.sbs&path=%2Fchelseaws#AMOAU1"
+                    "config"      : "vless://584181cb-f0c5-4df1-a4bf-6071a0fd1457@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=brunette-partial-deal-citizens.trycloudflare.com&path=%2F%3Fed%3D2048#France%2082"
                 },
 		{
                     "id"          : 16,
                     "symbol"      : "SP",
                     "countryName" : "Spain",
                     "ping"        : 0,
-                    "config"      : "vless://09d5ee4c-add7-4fd1-a361-de47a7eba87e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=call-witness-essentials-photographic.trycloudflare.com&path=%2F#AMOAU39"
+                    "config"      : "vless://311f9e89-704f-4ba3-ad43-95220861b194@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=above-lodge-mediawiki-habitat.trycloudflare.com&path=%2F%3Fed%3D2048#France%2084"
                 },
 		{
                     "id"          : 17,
                     "symbol"      : "SP",
                     "countryName" : "Spain",
                     "ping"        : 0,
-                    "config"      : "vless://e1e398e4-924b-4a44-bdfe-fdcb0754b3da@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=rates-expert-authorized-detail.trycloudflare.com&path=%2Fxui#AMOAU33"
+                    "config"      : "vless://584181cb-f0c5-4df1-a4bf-6071a0fd1457@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=brunette-partial-deal-citizens.trycloudflare.com&path=%2F%3Fed%3D2048#France%2083"
+                },
+		{
+                    "id"          : 18,
+                    "symbol"      : "FL",
+                    "countryName" : "Finland",
+                    "ping"        : 0,
+                    "config"      : "vless://9963d3c8-e37c-4676-945b-b4e95452e540@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=liked-works-hamburg-oct.trycloudflare.com&path=%2Farm%3Fed%3D2048#Finland"
                 }
 
 		
