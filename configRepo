@@ -47,14 +47,14 @@
                     "symbol"      : "TR",
                     "countryName" : "Turkey",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT1RSMiIsDQogICJhZGQiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwMmQyNWY2ZS0wYjRmLTRlMGItOTZhMS02MGJjNmJkN2UzMGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmYXV5bWFuYm94LmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvZG9nZ3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJjb29sZGFyay5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiZWRnZSINCn0="
+                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2061"
                 },
 		{
 		    "id"          : 8,
                     "symbol"      : "TR",
                     "countryName" : "Turkey",
                     "ping"        : 0,
-                    "config"      : "trojan://02d25f6e-0b4f-4e0b-96a1-60bc6bd7e30c@scale360.colocrossing.sbs:443?security=tls&sni=fauymanbox.colocrossing.sbs&alpn=h2&fp=ios&type=grpc&serviceName=doggtrojangrpc&mode=gun#AMOTR1"
+                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2062"
                 },
 		{
 		    "id"          : 9,
