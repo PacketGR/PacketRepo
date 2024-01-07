@@ -118,15 +118,7 @@
                     "countryName" : "Spain",
                     "ping"        : 0,
                     "config"      : "vless://584181cb-f0c5-4df1-a4bf-6071a0fd1457@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=brunette-partial-deal-citizens.trycloudflare.com&path=%2F%3Fed%3D2048#France%2083"
-                },
-		{
-                    "id"          : 18,
-                    "symbol"      : "FL",
-                    "countryName" : "Finland",
-                    "ping"        : 0,
-                    "config"      : "vless://9963d3c8-e37c-4676-945b-b4e95452e540@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=liked-works-hamburg-oct.trycloudflare.com&path=%2Farm%3Fed%3D2048#Finland"
                 }
-
 		
     ]
    
