@@ -26,21 +26,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVuaXRlZCBTdGF0ZXMgNCIsDQogICJhZGQiOiAicGFsYWVzdGluYWZyZWUuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjZi50b255bHVrLmxpbmsiLA0KICAicGF0aCI6ICIvb3BoZWxpYS5tb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiY2YudG9ueWx1ay5saW5rIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiZWRnZSINCn0="
+                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2061"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://660e3441-9768-4b88-902b-1c3d4ceede10@scale360.colocrossing.sbs:8443?encryption=none&security=tls&sni=Netazad22-chanel-for-yo-fuh31jhthirkh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt6.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#Us99"
+                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2061"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://7eb4ffd8-b2ba-44de-afa9-02ca4104e84b@scale360.colocrossing.sbs:8443?encryption=none&security=tls&sni=Free-config-for-you693ew6jy773hdhdhhgfsdhhdh.zerooners.com&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=news6.zerooners.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#Us91"
+                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2061"
                 },
 		{
 		    "id"          : 7,
