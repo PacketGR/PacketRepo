@@ -26,21 +26,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2061"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTQTUwMCIsDQogICJhZGQiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjIwNTIiLA0KICAiaWQiOiAiMmRiZWViNzYtYTcxZi00OTNmLWJkOTItMzNmMDE5MzI5MWM1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiaGt5eC42NTE1NjgueHl6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ=="
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2061"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTQTUwMCIsDQogICJhZGQiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjIwNTIiLA0KICAiaWQiOiAiMmRiZWViNzYtYTcxZi00OTNmLWJkOTItMzNmMDE5MzI5MWM1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiaGt5eC42NTE1NjgueHl6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ=="
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://74136e5b-0aea-45d9-a40f-b8789557935e@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=perform-cups-roughly-driven.trycloudflare.com&path=%2F#USA%2061"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTQTUwMCIsDQogICJhZGQiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjIwNTIiLA0KICAiaWQiOiAiMmRiZWViNzYtYTcxZi00OTNmLWJkOTItMzNmMDE5MzI5MWM1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiaGt5eC42NTE1NjgueHl6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ=="
                 },
 		{
 		    "id"          : 7,
