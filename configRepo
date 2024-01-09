@@ -58,10 +58,10 @@
                 },
 		{
 		    "id"          : 9,
-                    "symbol"      : "UK",
-                    "countryName" : "United Kingdom",
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://a8196412-21da-4892-ae58-4a0b6c440f75@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=impose-photographers-portrait-vietnamese.trycloudflare.com&path=%2F%3Fed%3D2048#England"
+                    "config"      : "vless://7bf1c642-bc10-4a6e-8f01-a6411f051424@173.245.58.51:2053?encryption=none&security=tls&sni=Digiv2ray-ConneCtion.Digiv2ray.shop&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=Digi-V2rayng-ConneCtion.Digiv2ray.shop&path=%2F#Germany%202147"
                 },
                 {
                     "id"          : 10,
