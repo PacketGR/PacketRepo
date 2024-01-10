@@ -12,7 +12,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://fe5a6be9-3c37-413d-8758-823b36da16b5@173.245.59.41:443?encryption=none&security=tls&sni=vienna-combination-treaty-coast.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=vienna-combination-treaty-coast.trycloudflare.com&path=%2F%3Fed%3D2048#USA%2033"
+                    "config"      : "vless://fe5a6be9-3c37-413d-8758-823b36da16b5@173.245.58.51:443?encryption=none&security=tls&sni=bargain-lover-economies-aquatic.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bargain-lover-economies-aquatic.trycloudflare.com&path=%2F%3Fed%3D2048#USA%2033"
                 },
 		{
 		    "id"          : 3,
