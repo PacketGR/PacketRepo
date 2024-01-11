@@ -19,7 +19,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://660e3441-9768-4b88-902b-1c3d4ceede10@173.245.59.41:8443?encryption=none&security=tls&sni=Netazad22-chanel-for-yo-fuh31jhthirkh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt6.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#Us99"
+                    "config"      : "vless://97d78f1c-3c5b-4c6a-99e5-ea2946b5d14b@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=palaestina.colocrossing.sbs&path=%2Fyyxbws#23"
                 },
 		{
 		    "id"          : 4,
@@ -33,21 +33,21 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://bead2e82-83a9-42a9-8f65-bbfb505a59f0@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=palaestin.colocrossing.sbs&path=%2Ffarfws#3"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjk3ZDc4ZjFjLTNjNWItNGM2YS05OWU1LWVhMjk0NmI1ZDE0YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicGFsYWVzdGluYS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3l5eGJ2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
                     "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjQiLA0KICAiYWRkIjogIjE3My4yNDUuNTguNTEiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmVhZDJlODItODNhOS00MmE5LThmNjUtYmJmYjUwNWE1OWYwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwYWxhZXN0aW4uY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9mYXJmdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjk3ZDc4ZjFjLTNjNWItNGM2YS05OWU1LWVhMjk0NmI1ZDE0YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicGFsYWVzdGluYS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3l5eGJ2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
                     "id"          : 7,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://bead2e82-83a9-42a9-8f65-bbfb505a59f0@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=palaestin.colocrossing.sbs&path=%2Ffarfws#5"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjk3ZDc4ZjFjLTNjNWItNGM2YS05OWU1LWVhMjk0NmI1ZDE0YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicGFsYWVzdGluYS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3l5eGJ2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 }
 		
 		
