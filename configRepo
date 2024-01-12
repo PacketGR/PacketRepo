@@ -19,7 +19,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://bead2e82-83a9-42a9-8f65-bbfb505a59f0@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=palaestin.colocrossing.sbs&path=%2Ffarfws#1"
+                    "config"      : "vless://86313923-a5fc-4585-a53b-29ae5539bcf6@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=alimuslim.colocrossing.sbs&path=%2Fljnaws#C1"
                 },
 		{
 		    "id"          : 4,
@@ -33,28 +33,28 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIiLA0KICAiYWRkIjogIjE3My4yNDUuNTguNTEiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmVhZDJlODItODNhOS00MmE5LThmNjUtYmJmYjUwNWE1OWYwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwYWxhZXN0aW4uY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9mYXJmdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
+                    "config"      : "vless://86313923-a5fc-4585-a53b-29ae5539bcf6@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=alimuslim.colocrossing.sbs&path=%2Fljnaws#C1"
                 },
                 {
                     "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjk3ZDc4ZjFjLTNjNWItNGM2YS05OWU1LWVhMjk0NmI1ZDE0YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicGFsYWVzdGluYS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3l5eGJ2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkMyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjg2MzEzOTIzLWE1ZmMtNDU4NS1hNTNiLTI5YWU1NTM5YmNmNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFsaW11c2xpbS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2xqbmF2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
                     "id"          : 7,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjk3ZDc4ZjFjLTNjNWItNGM2YS05OWU1LWVhMjk0NmI1ZDE0YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicGFsYWVzdGluYS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3l5eGJ2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkMyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjg2MzEzOTIzLWE1ZmMtNDU4NS1hNTNiLTI5YWU1NTM5YmNmNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFsaW11c2xpbS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2xqbmF2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
                     "id"          : 8,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjk3ZDc4ZjFjLTNjNWItNGM2YS05OWU1LWVhMjk0NmI1ZDE0YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAicGFsYWVzdGluYS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3l5eGJ2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkMyIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU5LjQxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjg2MzEzOTIzLWE1ZmMtNDU4NS1hNTNiLTI5YWU1NTM5YmNmNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFsaW11c2xpbS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2xqbmF2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 }
 		
 		
