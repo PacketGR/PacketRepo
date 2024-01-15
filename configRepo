@@ -5,21 +5,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://65f23795-5de3-4869-ab63-4f2d5bd6210b@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&fp=chrome&type=ws&host=darksouls1.colocrossing.sbs&path=%2Fuucnws#65f23795"
+                    "config"      : "vless://5362f7f8-847c-4d4d-968a-13fc9f7f3b0c@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=eshop3600.colocrossing.sbs&path=%2Fqtzmws#5362f7f8"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2fb22f5b-34d8-4ba9-8120-fd57a1c4677d@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gamexbox360.colocrossing.sbs&path=%2Fdzkbws#2fb22f5b"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjUzNjJmN2Y4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1MzYyZjdmOC04NDdjLTRkNGQtOTY4YS0xM2ZjOWY3ZjNiMGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVzaG9wMzYwMC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3F0em12d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjY1ZjIzNzk1MSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2NWYyMzc5NS01ZGUzLTQ4NjktYWI2My00ZjJkNWJkNjIxMGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRhcmtzb3VsczEuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi91dWNudndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
+                    "config"      : "vless://2fb22f5b-34d8-4ba9-8120-fd57a1c4677d@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gamexbox360.colocrossing.sbs&path=%2Fdzkbws#2fb22f5b"
                 },
 		{
 		    "id"          : 4,
@@ -33,14 +33,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://65f23795-5de3-4869-ab63-4f2d5bd6210b@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&fp=chrome&type=ws&host=darksouls1.colocrossing.sbs&path=%2Fuucnws#65f23795"
+                    "config"      : "vless://5362f7f8-847c-4d4d-968a-13fc9f7f3b0c@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=eshop3600.colocrossing.sbs&path=%2Fqtzmws#5362f7f8"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2fb22f5b-34d8-4ba9-8120-fd57a1c4677d@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gamexbox360.colocrossing.sbs&path=%2Fdzkbws#2fb22f5b"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjUzNjJmN2Y4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1MzYyZjdmOC04NDdjLTRkNGQtOTY4YS0xM2ZjOWY3ZjNiMGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVzaG9wMzYwMC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL3F0em12d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 }
 		
 		
