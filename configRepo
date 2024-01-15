@@ -5,43 +5,44 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://fb739d3b-f445-40fd-8efe-1a710e403ef8@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&fp=ios&type=ws&host=madmax2024.colocrossing.sbs&path=%2Fptrcws#fb739d3b"
+                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@188.114.96.0:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://c88f9218-37a8-4da6-a8eb-e823137b1613@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=darksouls3.colocrossing.sbs&path=%2Fkozkws#c88f9218"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.59.41:443?encryption=none&security=tls&sni=made-wall-caps-condition.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%20%201"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://62aacf5a-f1c1-4c67-95a5-1528a253b938@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=darksouls2.colocrossing.sbs&path=%2Faokhws#62aacf5a"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.58.51:80?encryption=none&security=none&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%202"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImZiNzM5ZDNiMSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmYjczOWQzYi1mNDQ1LTQwZmQtOGVmZS0xYTcxMGU0MDNlZjgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJtYWRtYXgyMDI0LmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvcHRyY3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@188.114.96.0:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImM4OGY5MjE4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjODhmOTIxOC0zN2E4LTRkYTYtYThlYi1lODIzMTM3YjE2MTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkYXJrc291bHMzLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIva296a3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.59.41:443?encryption=none&security=tls&sni=made-wall-caps-condition.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%20%201"
                 },
-                {
-                    "id"          : 6,
+		{
+		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjYyYWFjZjVhMSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2MmFhY2Y1YS1mMWMxLTRjNjctOTVhNS0xNTI4YTI1M2I5MzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRhcmtzb3VsczIuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9hb2todndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.58.51:80?encryption=none&security=none&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%202"
                 }
+		
 		
 		
 		
