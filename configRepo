@@ -5,43 +5,44 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://8f05348b-b7fd-4e5f-884b-df2b1cda29e8@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fotbaalfun.colocrossing.sbs&path=%2Fmohfws#8f05348b"
+                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@188.114.96.0:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://cfe7513d-c7f9-4d3a-9c90-52358fed03df@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar20224.colocrossing.sbs&path=%2Fphzzws#cfe7513d"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.59.41:443?encryption=none&security=tls&sni=made-wall-caps-condition.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%20%201"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjhmMDUzNDhiMSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4ZjA1MzQ4Yi1iN2ZkLTRlNWYtODg0Yi1kZjJiMWNkYTI5ZTgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmb3RiYWFsZnVuLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvbW9oZnZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.58.51:80?encryption=none&security=none&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%202"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNmZTc1MTNkMSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjZmU3NTEzZC1jN2Y5LTRkM2EtOWM5MC01MjM1OGZlZDAzZGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnb2RvZndhcjIwMjI0LmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvcGh6enZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzY2FsZTM2MC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@188.114.96.0:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://cfe7513d-c7f9-4d3a-9c90-52358fed03df@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar20224.colocrossing.sbs&path=%2Fphzzws#cfe7513d"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.59.41:443?encryption=none&security=tls&sni=made-wall-caps-condition.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%20%201"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://8f05348b-b7fd-4e5f-884b-df2b1cda29e8@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fotbaalfun.colocrossing.sbs&path=%2Fmohfws#8f05348b"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.58.51:80?encryption=none&security=none&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%202"
                 }
+		
 		
 		
 		
