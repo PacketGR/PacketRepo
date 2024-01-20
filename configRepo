@@ -5,42 +5,42 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a3b56d84-510c-4953-b88e-f2b08cd35330@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fifadaysfaun.colocrossing.sbs&path=%2Fokjaws#a3b56d84"
+                    "config"      : "vless://5c6fb3c8-4f46-4d63-9849-7c76f07f05c4@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Fariuws#5c6fb3c8"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://5c6fb3c8-4f46-4d63-9849-7c76f07f05c4@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Fariuws#5c6fb3c8"
+                    "config"      : "vless://12d7e57b-9fc8-41e0-9b32-f503dce10c1c@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Ffdczws#12d7e57b"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://12d7e57b-9fc8-41e0-9b32-f503dce10c1c@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Ffdczws#12d7e57b"
+                    "config"      : "vless://6fb68c7d-d799-46bb-a48c-5cba8bdfa006@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bestmanover2643.colocrossing.sbs&path=%2Flqgjws#6fb68c7d"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImEzYjU2ZDg0MSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhM2I1NmQ4NC01MTBjLTQ5NTMtYjg4ZS1mMmIwOGNkMzUzMzAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmaWZhZGF5c2ZhdW4uY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9va2phdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.59.41:443?encryption=none&security=tls&sni=made-wall-caps-condition.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%20%201"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjVjNmZiM2M4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1YzZmYjNjOC00ZjQ2LTRkNjMtOTg0OS03Yzc2ZjA3ZjA1YzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0ZnVuZ2FtZS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2FyaXV2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.59.41:443?encryption=none&security=tls&sni=made-wall-caps-condition.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%20%201"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEyZDdlNTdiMSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxMmQ3ZTU3Yi05ZmM4LTQxZTAtOWIzMi1mNTAzZGNlMTBjMWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnb2RvZndhcjIwMjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9mZGN6dndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
                 },
 		{
 		    "id"          : 7,
@@ -55,7 +55,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjVjNmZiM2M4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1YzZmYjNjOC00ZjQ2LTRkNjMtOTg0OS03Yzc2ZjA3ZjA1YzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0ZnVuZ2FtZS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2FyaXV2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjZmYjY4YzdkIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU4LjUxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZmYjY4YzdkLWQ3OTktNDZiYi1hNDhjLTVjYmE4YmRmYTAwNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJlc3RtYW5vdmVyMjY0My5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2xxZ2p2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 }
 		
 		
