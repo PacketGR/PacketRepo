@@ -5,14 +5,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjVjNmZiM2M4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1YzZmYjNjOC00ZjQ2LTRkNjMtOTg0OS03Yzc2ZjA3ZjA1YzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0ZnVuZ2FtZS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2FyaXV2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vless://0bf59ad9-e06d-41cf-9f0f-8b2709fabd23@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=footballmaster2357.colocrossing.sbs&path=%2Fegrcws#0bf59ad9"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://12d7e57b-9fc8-41e0-9b32-f503dce10c1c@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Ffdczws#12d7e57b"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjBiZjU5YWQ5MSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwYmY1OWFkOS1lMDZkLTQxY2YtOWYwZi04YjI3MDlmYWJkMjMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmb290YmFsbG1hc3RlcjIzNTcuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9lZ3JjdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
                 },
 		{
 		    "id"          : 3,
