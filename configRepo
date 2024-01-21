@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImM5MTRjZTJmMSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjOTE0Y2UyZi04OGNmLTQ1NzEtYmY0My0yOGFiOTk3ZDhiMTciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwZXMyMDI0Z2FtZS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2FteW92d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjVjNmZiM2M4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1YzZmYjNjOC00ZjQ2LTRkNjMtOTg0OS03Yzc2ZjA3ZjA1YzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0ZnVuZ2FtZS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2FyaXV2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
 		    "id"          : 2,
