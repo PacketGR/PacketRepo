@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://5c6fb3c8-4f46-4d63-9849-7c76f07f05c4@173.245.59.41:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Fariuws#5c6fb3c8"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImM5MTRjZTJmMSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjOTE0Y2UyZi04OGNmLTQ1NzEtYmY0My0yOGFiOTk3ZDhiMTciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwZXMyMDI0Z2FtZS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2FteW92d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
 		    "id"          : 2,
