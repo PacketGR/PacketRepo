@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://0bf59ad9-e06d-41cf-9f0f-8b2709fabd23@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=footballmaster2357.colocrossing.sbs&path=%2Fegrcws#0bf59ad9"
+                    "config"      : "vless://c914ce2f-88cf-4571-bf43-28ab997d8b17@ns2.digitalocean.com:443?encryption=none&security=tls&sni=pes2024game.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=pes2024game.colocrossing.sbs&path=%2Famyows#c914ce2f"
                 },
 		{
 		    "id"          : 2,
@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://1ff0bdc3-b5f3-4076-8724-36ae3f441289@173.245.58.51:443?encryption=none&security=tls&sni=subsequently-companies-empirical-malta.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=subsequently-companies-empirical-malta.trycloudflare.com&path=%2FXUI#eubpqnpv"
+                    "config"      : "vless://0bf59ad9-e06d-41cf-9f0f-8b2709fabd23@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=footballmaster2357.colocrossing.sbs&path=%2Fegrcws#0bf59ad9"
                 },
 		{
 		    "id"          : 5,
