@@ -12,7 +12,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjBiZjU5YWQ5MSIsDQogICJhZGQiOiAiMTczLjI0NS41OS40MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwYmY1OWFkOS1lMDZkLTQxY2YtOWYwZi04YjI3MDlmYWJkMjMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmb290YmFsbG1hc3RlcjIzNTcuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9lZ3JjdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
+                    "config"      : "vless://ae3c308f-98a8-46da-a23e-05a057f2ad6c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=xbox360gammaster.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=xbox360gammaster.colocrossing.top&path=%2Foccrws#ae3c308f"
                 },
 		{
 		    "id"          : 3,
