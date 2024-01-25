@@ -5,14 +5,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://c914ce2f-88cf-4571-bf43-28ab997d8b17@ns2.digitalocean.com:443?encryption=none&security=tls&sni=pes2024game.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=pes2024game.colocrossing.sbs&path=%2Famyows#c914ce2f"
+                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ae3c308f-98a8-46da-a23e-05a057f2ad6c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=xbox360gammaster.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=xbox360gammaster.colocrossing.top&path=%2Foccrws#ae3c308f"
+                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
                 },
 		{
 		    "id"          : 3,
