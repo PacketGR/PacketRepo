@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ae3c308f-98a8-46da-a23e-05a057f2ad6c@173.245.59.41:443?encryption=none&security=tls&sni=xbox360gammaster.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=xbox360gammaster.colocrossing.top&path=%2Foccrws#ae3c308f"
+                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
                 },
 		{
 		    "id"          : 2,
