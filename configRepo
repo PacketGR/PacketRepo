@@ -5,58 +5,44 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
+                    "config"      : "vless://ae3c308f-98a8-46da-a23e-05a057f2ad6c@173.245.59.41:443?encryption=none&security=tls&sni=xbox360gammaster.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=xbox360gammaster.colocrossing.top&path=%2Foccrws#ae3c308f"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://ae3c308f-98a8-46da-a23e-05a057f2ad6c@173.245.59.41:443?encryption=none&security=tls&sni=xbox360gammaster.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=xbox360gammaster.colocrossing.top&path=%2Foccrws#ae3c308f"
+                    "config"      : "vless://c914ce2f-88cf-4571-bf43-28ab997d8b17@173.245.58.51:443?encryption=none&security=tls&sni=pes2024game.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=pes2024game.colocrossing.sbs&path=%2Famyows#c914ce2f"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://50cff923-5e49-48b4-a555-5da1add63030@173.245.59.41:443?encryption=none&security=tls&sni=4fungame.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Ffgexws#50cff923"
+                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://0bf59ad9-e06d-41cf-9f0f-8b2709fabd23@173.245.58.51:443?encryption=none&security=tls&sni=scale360.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=footballmaster2357.colocrossing.sbs&path=%2Fegrcws#0bf59ad9"
+                    "config"      : "vless://50cff923-5e49-48b4-a555-5da1add63030@173.245.59.41:443?encryption=none&security=tls&sni=4fungame.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Ffgexws#50cff923"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjVjNmZiM2M4MSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1YzZmYjNjOC00ZjQ2LTRkNjMtOTg0OS03Yzc2ZjA3ZjA1YzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0ZnVuZ2FtZS5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2FyaXV2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vless://ae3c308f-98a8-46da-a23e-05a057f2ad6c@173.245.59.41:443?encryption=none&security=tls&sni=xbox360gammaster.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=xbox360gammaster.colocrossing.top&path=%2Foccrws#ae3c308f"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEyZDdlNTdiMSIsDQogICJhZGQiOiAiMTczLjI0NS41OC41MSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxMmQ3ZTU3Yi05ZmM4LTQxZTAtOWIzMi1mNTAzZGNlMTBjMWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnb2RvZndhcjIwMjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwYXRoIjogIi9mZGN6dndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNjYWxlMzYwLmNvbG9jcm9zc2luZy5zYnMiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
-                },
-		{
-		    "id"          : 7,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
-
-                },
-		{
-		    "id"          : 8,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjZmYjY4YzdkIiwNCiAgImFkZCI6ICIxNzMuMjQ1LjU4LjUxIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZmYjY4YzdkLWQ3OTktNDZiYi1hNDhjLTVjYmE4YmRmYTAwNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJlc3RtYW5vdmVyMjY0My5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2xxZ2p2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vless://c914ce2f-88cf-4571-bf43-28ab997d8b17@173.245.58.51:443?encryption=none&security=tls&sni=pes2024game.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=pes2024game.colocrossing.sbs&path=%2Famyows#c914ce2f"
                 }
+		
 		
 		
 		
