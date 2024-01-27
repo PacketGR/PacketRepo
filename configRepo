@@ -5,21 +5,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
+                    "config"      : "vless://c914ce2f-88cf-4571-bf43-28ab997d8b17@173.245.58.51:443?encryption=none&security=tls&sni=pes2024game.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=pes2024game.colocrossing.sbs&path=%2Famyows#c914ce2f"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.59.41:443?encryption=none&security=tls&sni=made-wall-caps-condition.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%20%201"
+                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
+                    "config"      : "vless://50cff923-5e49-48b4-a555-5da1add63030@173.245.59.41:443?encryption=none&security=tls&sni=4fungame.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Ffgexws#50cff923"
                 },
 		{
 		    "id"          : 4,
