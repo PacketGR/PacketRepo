@@ -5,28 +5,28 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=shirazpc.icu&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=shirazpc.icu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ns3.digitalocean.com:443?encryption=none&security=tls&sni=photodigistore.tech&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=shirazpc.icu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=shirazpc.icu&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ns3.digitalocean.com:443?encryption=none&security=tls&sni=photodigistore.tech&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
                 },
 		{
 		    "id"          : 5,
