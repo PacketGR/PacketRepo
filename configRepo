@@ -5,42 +5,42 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=shirazpc.icu&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=edge&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://50cff923-5e49-48b4-a555-5da1add63030@173.245.59.41:443?encryption=none&security=tls&sni=4fungame.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Ffgexws#50cff923"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://50cff923-5e49-48b4-a555-5da1add63030@173.245.59.41:443?encryption=none&security=tls&sni=4fungame.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=4fungame.colocrossing.sbs&path=%2Ffgexws#50cff923"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=shirazpc.icu&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      :"vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
+                    "config"      :"vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
+                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
                 }
 		
 		
