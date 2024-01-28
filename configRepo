@@ -33,14 +33,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      :"vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
+                    "config"      :"vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
+                    "config"      : "vless://acc5554d-009b-4c67-bac8-cec1a9f67d51@173.245.58.51:443?encryption=none&security=tls&sni=godofwar2020.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=godofwar2020.colocrossing.sbs&path=%2Fezgzws#acc5554d"
                 }
 		
 		
