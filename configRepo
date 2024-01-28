@@ -12,7 +12,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=random&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=edge&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
                 },
 		{
 		    "id"          : 3,
