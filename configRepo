@@ -12,7 +12,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://c914ce2f-88cf-4571-bf43-28ab997d8b17@173.245.58.51:443?encryption=none&security=tls&sni=pes2024game.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=pes2024game.colocrossing.sbs&path=%2Famyows#c914ce2f"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@austin.ns.cloudflare.com:443?encryption=none&security=tls&sni=photodigistore.tech&fp=random&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
                 },
 		{
 		    "id"          : 3,
