@@ -2,41 +2,55 @@
     "configs" : [
 		{
 		    "id"          : 1,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "FL",
+                    "countryName" : "Finland",
                     "ping"        : 0,
                     "config"      : "vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?encryption=none&security=none&type=ws&host=fast.com&path=%2F%40VPNLime#MM1"
                 },
 		{
 		    "id"          : 2,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?encryption=none&security=none&type=ws&host=fast.com&path=%2F%40VPNLime#MM1"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk1NMyIsDQogICJhZGQiOiAiMTU0LjUzLjE2NC4xMDAiLA0KICAicG9ydCI6ICI0MDY2MCIsDQogICJpZCI6ICIwNzQwZGQ5Mi0zZmMxLTQ5MTgtYTNjYi1iNWYzNWU0YTkzMDgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjAxLmguY3N6bmV0LmV1Lm9yZyIsDQogICJwYXRoIjogIi9hZG1pbiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ0cjAxLmguY3N6bmV0LmV1Lm9yZyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
 		    "id"          : 3,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "DN",
+                    "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "trojan://telegram-id-directvpn@18.169.39.202:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1&fp=ios&type=tcp&headerType=none#CC3"
+                    "config"      : "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.167.21:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&alpn=h2%2Chttp%2F1.1&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#MM2"
                 },
 		{
 		    "id"          : 4,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "FR",
+                    "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "trojan://telegram-id-directvpn@35.179.52.113:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#CC2"
+                    "config"      : "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ns3.digitalocean.com:443?encryption=none&security=tls&sni=baipiao118.stunning-bassoon.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=baipiao118.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048#MM3"
                 },
 		{
 		    "id"          : 5,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "CA",
+                    "countryName" : "Canada",
+                    "ping"        : 0,
+                    "config"      : "vless://95e573cb-105c-42e5-a353-8aed544d31a8@87.236.208.38:8880?encryption=none&security=none&type=ws&host=xbestspeed.site&path=%2F#MM4"
+                },
+		{
+		    "id"          : 6,
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
+                    "ping"        : 0,
+                    "config"      : "trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@ns3.digitalocean.com:443?security=tls&sni=hdfy8d1.cpi1.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&mode=gun#CC1"
+                },
+		{
+		    "id"          : 7,
+                    "symbol"      : "UK",
+                    "countryName" : "United Kingdom,
                     "ping"        : 0,
                     "config"      : "trojan://telegram-id-directvpn@35.179.52.113:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#CC2"
                 },
 		{
-		    "id"          : 6,
+		    "id"          : 8,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
