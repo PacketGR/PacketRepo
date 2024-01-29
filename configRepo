@@ -45,7 +45,7 @@
 		{
 		    "id"          : 7,
                     "symbol"      : "UK",
-                    "countryName" : "United Kingdom,
+                    "countryName" : "United Kingdom",
                     "ping"        : 0,
                     "config"      : "trojan://telegram-id-directvpn@35.179.52.113:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#CC2"
                 },
