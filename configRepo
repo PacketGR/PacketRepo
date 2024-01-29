@@ -5,28 +5,42 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://dfc0887e-85a2-4736-be84-6ddb3c177179@1vvv.fastv2.com:23504?encryption=none&security=none&type=ws&path=%2F#GG1"
+                    "config"      : "trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@ns3.digitalocean.com:443?security=tls&sni=hdfy8d1.cpi1.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&mode=gun#CC1"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://dfc0887e-85a2-4736-be84-6ddb3c177179@1vvv.fastv2.com:23504?encryption=none&security=none&type=ws&path=%2F#GG1"
+                    "config"      : "trojan://telegram-id-directvpn@35.179.52.113:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#CC2"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://dfc0887e-85a2-4736-be84-6ddb3c177179@1vvv.fastv2.com:23504?encryption=none&security=none&type=ws&path=%2F#GG1"
+                    "config"      : "trojan://telegram-id-directvpn@18.169.39.202:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1&fp=ios&type=tcp&headerType=none#CC3"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://dfc0887e-85a2-4736-be84-6ddb3c177179@1vvv.fastv2.com:23504?encryption=none&security=none&type=ws&path=%2F#GG1"
+                    "config"      : "trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@ns3.digitalocean.com:443?security=tls&sni=hdfy8d1.cpi1.eu.org&alpn=h2&fp=chrome&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&mode=gun#CC1"
+                },
+		{
+		    "id"          : 5,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "trojan://telegram-id-directvpn@35.179.52.113:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#CC2"
+                },
+		{
+		    "id"          : 6,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "trojan://telegram-id-directvpn@18.169.39.202:22222?security=tls&sni=trojan.miwan.co.uk&alpn=http%2F1.1&fp=ios&type=tcp&headerType=none#CC3"
                 }
 		
 		
