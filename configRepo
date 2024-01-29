@@ -5,43 +5,30 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://03bcfddb-b287-474c-b17c-ab52cbac4b9f@ns3.digitalocean.com:80?encryption=none&security=none&type=ws&host=bmw-motors.shop&path=%2F%3Fed%3D2048#3dnm505s"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.58.51:80?encryption=none&security=none&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%202"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://03bcfddb-b287-474c-b17c-ab52cbac4b9f@ns3.digitalocean.com:80?encryption=none&security=none&type=ws&host=bmw-motors.shop&path=%2F%3Fed%3D2048#3dnm505s"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.58.51:80?encryption=none&security=none&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%202"
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ns3.digitalocean.com:443?encryption=none&security=tls&sni=photodigistore.tech&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
+                    "config"      : "vless://c5c834fd-ee6b-407e-9f42-80615761eed3@173.245.58.51:80?encryption=none&security=none&type=ws&host=made-wall-caps-condition.trycloudflare.com&path=%2F%3Fed%3D2048#Netherland%202"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=shirazpc.icu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
-                },
-		{
-		    "id"          : 5,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      :"vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ns3.digitalocean.com:443?encryption=none&security=tls&sni=photodigistore.tech&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=photodigistore.tech&path=%2Fzqaews#3cd50e4611"
-                },
-		{
-		    "id"          : 6,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=shirazpc.icu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
+                    "config"      : "vless://1ff0bdc3-b5f3-4076-8724-36ae3f441289@173.245.58.51:443?encryption=none&security=tls&sni=subsequently-companies-empirical-malta.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=subsequently-companies-empirical-malta.trycloudflare.com&path=%2FXUI#eubpqnpv"
                 }
+		
 		
 		
 		
