@@ -41,21 +41,8 @@
                     "countryName" : "USA",
                     "ping"        : 0,
                     "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=shirazpc.icu&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=shirazpc.icu&path=%2Fkbinws#eb549a6fffff"
-                },
-		{
-		    "id"          : 7,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
-                },
-		{
-		    "id"          : 8,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://99a51d9c-8afb-45bd-9513-c6b6730208b5@173.245.58.51:443?encryption=none&security=tls&sni=imam-khomaini.pages.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imam-khomaini.pages.dev&path=%2F%3Fed%3D2048#Germany100"
                 }
+		
 		
 		
 		
