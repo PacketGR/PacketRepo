@@ -103,7 +103,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://ea20db15-765b-4dca-9bdf-55f4f7214e19@45.63.40.26:443?encryption=none&security=reality&sni=api8.happylifee.space&fp=chrome&pbk=4ZDDtfFmAcXo7EfusYegQF5zkfJCRdb5OZqv-VTlPw8&sid=52421537&type=tcp&headerType=none#MM19"
+                    "config"      : "vless://9b28c890-296d-411d-a323-2f411e751f00@49.13.170.61:2087?encryption=none&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=KuZOpuz0L4H-VNikILS8NP9oA6Ra9uTGEZLHH0FODFM&sid=83cdb009&type=grpc#MM18"
                 }
 		
 		
