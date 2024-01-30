@@ -26,14 +26,14 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://dc6a2e2b-1e00-421c-9352-0849dae6b4d3@ns3.digitalocean.com:443?encryption=none&security=tls&sni=nimacdn1.phsv.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=nimacdn1.phsv.top&path=%2F1mcJkS9iTbQe72CWla4TPYbxVIm93#MM21"
+                    "config"      : "vless://bebc1346-3436-4dc1-95be-a0f51daa0841@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=socialinband-config-tgju-you117ew6j882310hirancelldhhdh.turkeyone.org&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt10.turkeyone.org&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#CC4"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://79c89775-3014-4e52-f528-b8abdc9e6362@ns3.digitalocean.com:8080?encryption=none&security=none&type=ws&host=3f2.all-mci.cfd&path=%2Fghuiorguijiogfioeuorue#MM23"
+                    "config"      : "vless://337852f7-6625-4859-b00a-59f2874e71af@ns3.digitalocean.com:2096?encryption=none&security=tls&sni=y.1lagvpn13.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=%40v2rray1_ng&mode=gun#CC5"
                 },
 		{
 		    "id"          : 6,
@@ -61,7 +61,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://352a3677-9d4a-4d5c-9c39-17a7e0db1273@ns3.digitalocean.com:443?encryption=none&security=tls&sni=joooin.golestan-vpn.link&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=joooin.golestan-vpn.link&path=%2Fgoli#MM20"
+                    "config"      : "vless://88966f3e-c1c3-458a-8930-018bbda7bf96@ns3.digitalocean.com:2087?encryption=none&security=tls&sni=alman.germaanpro.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=abc&mode=gun#CC3"
                 },
 		{
 		    "id"          : 10,
