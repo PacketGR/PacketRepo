@@ -33,7 +33,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://fd5d49b9-f5fb-452f-a156-5a8297ec0572@gcore.com:80?encryption=none&security=none&type=ws&host=google.icu&path=%2F#CC9"
+                    "config"      : "vless://fd5d49b9-f5fb-452f-a156-5a8297ec0572@453123.xyz:80?encryption=none&security=none&type=ws&host=google.icu&path=%2F#CC9"
                 },
 		{
 		    "id"          : 6,
