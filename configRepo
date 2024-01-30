@@ -54,14 +54,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://21215632-e7a7-41e9-f88e-7b650eefee95@45.76.177.253:36223?encryption=none&security=none&type=ws&host=m.zoom.us&path=%2F#MM6"
+                    "config"      : "vless://081f175a-c72e-4ac9-b179-b8d60b98967c@br-saopaolo-oracle-aa9b76.ip1.shop:54953?encryption=none&security=none&type=ws&path=%2Fa#CC6"
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://88966f3e-c1c3-458a-8930-018bbda7bf96@ns3.digitalocean.com:2087?encryption=none&security=tls&sni=alman.germaanpro.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=abc&mode=gun#CC3"
+                    "config"      : "vless://c14ad948-0786-469b-b234-299ba628f6e0@au-melbourne-oracle-abfdf2.ip1.shop:58603?encryption=none&security=none&type=ws&path=%2Fa#CC7"
                 },
 		{
 		    "id"          : 10,
