@@ -33,7 +33,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://a35a078a-7fa3-452b-9d35-c538865252bf@ns3.digitalocean.com:2096?encryption=none&security=tls&sni=canfigvpn.canfigvpn-canfigvpn.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=canfigvpn.canfigvpn-canfigvpn.workers.dev&path=vless-ws%2F%3Fed%3D2096#CC8"
+                    "config"      : "vless://fd5d49b9-f5fb-452f-a156-5a8297ec0572@gcore.com:80?encryption=none&security=none&type=ws&host=google.icu&path=%2F#CC9"
                 },
 		{
 		    "id"          : 6,
