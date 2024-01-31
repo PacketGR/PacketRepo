@@ -40,7 +40,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNDMSIsDQogICJhZGQiOiAiMTU0LjUzLjE2NC4xMDAiLA0KICAicG9ydCI6ICI0MDY2MCIsDQogICJpZCI6ICI4YmIxMDQxOC0xNDAxLTQxOWQtOTE2MS04NDg0NDQ2ZTQzNzAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyMDEuaC5jc3puZXQuZXUub3JnIiwNCiAgInBhdGgiOiAiL2FkbWluIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInRyMDEuaC5jc3puZXQuZXUub3JnIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiZmlyZWZveCINCn0="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdHNyIsDQogICJhZGQiOiAiMTkyLjE1MS4yNTUuMTYiLA0KICAicG9ydCI6ICI0MTY5OCIsDQogICJpZCI6ICJiNzE3NGIxOS1iYzhhLTRjOWQtYWMxNS0zNDFjMGU0M2NjZDAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZoY2FtZDIubWFjMndpbi50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9"
                 },
 		{
 		    "id"          : 7,
