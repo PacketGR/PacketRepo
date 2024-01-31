@@ -40,7 +40,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdHOSIsDQogICJhZGQiOiAiMjE2LjkuMjI0LjEyOSIsDQogICJwb3J0IjogIjg4ODAiLA0KICAiaWQiOiAiOTNlYzVlZTAtZDc2OS00N2MxLWE1MjAtZmNiZmI2Yzc0YmNmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAic3BlZWR0ZXN0Lm5ldCxlYS5jb20iLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJub25lIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9"
+                    "config"      : "vless://90c7e748-2e80-4372-b51f-1b64dfbc862f@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=Free-config-for-you111ew6j844373hdhdhhgfsdhhdh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt8.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#KK1"
                 },
 		{
 		    "id"          : 7,
