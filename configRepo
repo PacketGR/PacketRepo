@@ -5,7 +5,7 @@
                     "symbol"      : "FL",
                     "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?encryption=none&security=none&type=ws&host=fast.com&path=%2F%40VPNLime#MM1"
+                    "config"      : "vless://fc1191c8-e724-482f-a492-90d3d386719c@ns3.digitalocean.com:2087?encryption=none&security=tls&sni=sisand.waztow.WoRkeRs.DEv&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=sisand.waztow.WoRkeRs.DEv&path=vless-ws%2F%3Fed%3D2048#GG1"
                 },
 		{
 		    "id"          : 2,
@@ -103,7 +103,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://9b28c890-296d-411d-a323-2f411e751f00@49.13.170.61:2087?encryption=none&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=KuZOpuz0L4H-VNikILS8NP9oA6Ra9uTGEZLHH0FODFM&sid=83cdb009&type=grpc#MM18"
+                    "config"      : "vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@ns3.digitalocean.com:443?encryption=none&security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=WORKEr-frOSTY-BuTTeRFly-b0E9.4158fb3524.wORKeRs.deV&path=%2Fvk_l-IzYy3q_-NOq%3Fed%3D2048#GG2"
                 }
 		
 		
