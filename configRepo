@@ -61,7 +61,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdHNSIsDQogICJhZGQiOiAiMTQ0LjE3Mi43Ni43MSIsDQogICJwb3J0IjogIjI0NDM3IiwNCiAgImlkIjogIjg0MDI0ZGM4LTdjOGMtNDkzZS1hYTc2LTI1OTNjOTg5MTZiMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ=="
+                    "config"      : "trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@ns3.digitalocean.com:443?security=tls&sni=de1.test3.net&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=de1.test3.net&path=%2Fhowdy#KK4"
                 },
 		{
 		    "id"          : 10,
@@ -86,10 +86,10 @@
                 },
 		{
 		    "id"          : 13,
-                    "symbol"      : "UK",
-                    "countryName" : "United Kingdom",
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33&type=tcp&headerType=none#GG3"
+                    "config"      : "trojan://telegram-id-directvpn@13.51.19.202:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=edge&type=tcp&headerType=none#KK6"
                 },
 		{
 		    "id"          : 14,
@@ -100,10 +100,10 @@
                 },
 		{
 		    "id"          : 15,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
+                    "symbol"      : "US",
+                    "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@ns3.digitalocean.com:443?encryption=none&security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=WORKEr-frOSTY-BuTTeRFly-b0E9.4158fb3524.wORKeRs.deV&path=%2Fvk_l-IzYy3q_-NOq%3Fed%3D2048#GG2"
+                    "config"      : "trojan://telegram-id-privatevpns@18.153.235.105:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#KK5"
                 }
 		
 		
