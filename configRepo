@@ -33,7 +33,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdHNiIsDQogICJhZGQiOiAiMTcyLjY3LjIyOS4zNCIsDQogICJwb3J0IjogIjIwODYiLA0KICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjYTYudGVobWUxMDAuZnVuIiwNCiAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0="
+                    "config"      : "vless://bebc1346-3436-4dc1-95be-a0f51daa0841@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=socialinband-config-tgju-you117ew6j882310hirancelldhhdh.turkeyone.org&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=gt10.turkeyone.org&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#RR1"
                 },
 		{
 		    "id"          : 6,
@@ -89,7 +89,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "trojan://telegram-id-directvpn@13.51.19.202:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=edge&type=tcp&headerType=none#KK6"
+                    "config"      : "vless://5e981e02-09cb-4589-c232-2b9c2101bcdd@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=Free-config-for-you912uu6j88803hdhdhhgfsdhhdh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=safari&type=ws&host=gt4.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#RR2"
                 },
 		{
 		    "id"          : 14,
