@@ -82,7 +82,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://b5580568-effc-4e49-b150-334c16000f23@91.107.249.171:59220?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=chrome&pbk=LjGDHzYCpeipA2gJ6fpq92t45Uad2WMCivqSerttAVM&sid=2b86da60&type=tcp&headerType=none#MM15"
+                    "config"      : "vless://48bd877e-67a0-45b6-ac0a-f7c15cc8e99e@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=Free-config-for-you777ew6jy900hdhdhhgfsdhhdh.zerooners.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt9.zerooners.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#KK2"
                 },
 		{
 		    "id"          : 13,
@@ -96,7 +96,7 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://953978bb-e556-49cb-b297-19ede5f43546@91.107.138.156:37539?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=firefox&pbk=NbLwz3G2uGnZ7S5oksi6xqvqZcBP_nUZMwrG2qdcEUE&sid=c6e5617c&type=tcp&headerType=none#MM13"
+                    "config"      : "vless://4525899f-69fe-4354-b1a2-109fee724855@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=Free-config-for-you37ew6j99973hdhdhhgfsdhhdh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=gt3.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#KK3"
                 },
 		{
 		    "id"          : 15,
