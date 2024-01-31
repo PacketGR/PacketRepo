@@ -61,7 +61,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@ns3.digitalocean.com:443?security=tls&sni=de1.test3.net&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=de1.test3.net&path=%2Fhowdy#KK4"
+                    "config"      : "vless://508ebbe4-3260-4d55-9d23-00152bd26eb7@ns3.digitalocean.com:80?encryption=none&security=none&type=ws&host=cRRxvM.eITa.WOrLD&path=%2Fbackup#RR4"
                 },
 		{
 		    "id"          : 10,
@@ -103,7 +103,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://telegram-id-privatevpns@18.153.235.105:22222?security=tls&sni=trojan.miwan.co.uk&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#KK5"
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJSMyIsDQogICJhZGQiOiAibnMzLmRpZ2l0YWxvY2Vhbi5jb20iLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogIjVhNWFhZGMyLTg4MzQtNGU3Yi04OTViLTc0YWQxNTVmYmYyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInYycmF5LmliZ2Z3LnRvcCIsDQogICJwYXRoIjogIi92Vk5VSk9nYi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidjJyYXkuaWJnZncudG9wIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ=="
                 }
 		
 		
