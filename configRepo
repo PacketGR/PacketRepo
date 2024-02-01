@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@mustafa.ns.cloudflare.com:443?encryption=none&security=tls&sni=hgeslhgknelsdg6rsg1esdfhwqjhklasdfh56852shirazpcicu.shahid05.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=hgeslhgknelsdg6rsg1esdfhwqjhklasdfh56852shirazpcicu.shahid05.workers.dev&path=%2Fkbinws#MM2"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fe4s5642sxzf48r4hyk18jm23gd18wsdws31gt8gk9621l54jd6f5gv3n9t6gf3.korissa2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=fe4s5642sxzf48r4hyk18jm23gd18wsdws31gt8gk9621l54jd6f5gv3n9t6gf3.korissa2.workers.dev&path=%2Fkbinws#MMM2"
                 },
 		{
 		    "id"          : 2,
@@ -19,21 +19,21 @@
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "vless://660e3441-9768-4b88-902b-1c3d4ceede10@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=Netazad22-chanel-for-yo-fuh31jhthirkh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt6.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#MM9"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@www.zula.ir:443?encryption=none&security=tls&sni=esdhjkfeiwljfo565232ewfjlmws623gribhjkmwfd632efwskjnmefs523fesl.pixiea20.workers.dev&alpn=h2%2Chttp%2F1.1&fp=safari&type=ws&host=esdhjkfeiwljfo565232ewfjlmws623gribhjkmwfd632efwskjnmefs523fesl.pixiea20.workers.dev&path=%2Fzqaews#AA1"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://bebc1346-3436-4dc1-95be-a0f51daa0841@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=socialinband-config-tgju-you117ew6j882310hirancelldhhdh.turkeyone.org&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt10.turkeyone.org&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#CC4"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@mustafa.ns.cloudflare.com:443?encryption=none&security=tls&sni=ashtfgds5a2dfsdgfnjdsklaghjyku963jh2g1fsdwasdfdhkluykuli5gj32hg.sally42.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=ashtfgds5a2dfsdgfnjdsklaghjyku963jh2g1fsdwasdfdhkluykuli5gj32hg.sally42.workers.dev&path=%2Fkbinws#AA2"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://bebc1346-3436-4dc1-95be-a0f51daa0841@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=socialinband-config-tgju-you117ew6j882310hirancelldhhdh.turkeyone.org&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=gt10.turkeyone.org&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#RR1"
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@gcore.com:80?encryption=none&security=none&type=ws&host=imamkhomaini.dog&path=%2F#MOge"
                 },
 		{
 		    "id"          : 6,
