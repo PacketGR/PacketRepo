@@ -5,14 +5,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@hello-world-icy-voice-7e0dyfshedjhfszkndmhdkjgf68456556fgshjfkd.gorebbbh.workers.dev:443?encryption=none&security=tls&sni=hello-world-icy-voice-7e0dyfshedjhfszkndmhdkjgf68456556fgshjfkd.gorebbbh.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=hello-world-icy-voice-7e0dyfshedjhfszkndmhdkjgf68456556fgshjfkd.gorebbbh.workers.dev&path=%2Fzqaews#GG1"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@1321esdfsehdngksdhgd2fh3dfh26d.fhfudhvkfd.workers.dev:443?encryption=none&security=tls&sni=1321esdfsehdngksdhgd2fh3dfh26d.fhfudhvkfd.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=1321esdfsehdngksdhgd2fh3dfh26d.fhfudhvkfd.workers.dev&path=%2Fkbinws#KK2"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@worker-muddy-sunset-32befvbnvmhnbgvbfnbgvfvbnbhgfvbnhgnb.1o867k9904.workers.dev:443?encryption=none&security=tls&sni=worker-muddy-sunset-32befvbnvmhnbgvbfnbgvfvbnbhgfvbnhgnb.1o867k9904.workers.dev&alpn=http%2F1.1&fp=ios&type=ws&host=worker-muddy-sunset-32befvbnvmhnbgvbfnbgvfvbnbhgfvbnhgnb.1o867k9904.workers.dev&path=%2Fkbinws#GG2"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ns1.digitalocean.com:443?encryption=none&security=tls&sni=efsterseresturjytjyrenrn5865412gfhd.lavender53.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=efsterseresturjytjyrenrn5865412gfhd.lavender53.workers.dev&path=%2Fzqaews#KK1"
                 },
 		{
 		    "id"          : 3,
