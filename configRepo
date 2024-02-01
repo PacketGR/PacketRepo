@@ -2,17 +2,17 @@
     "configs" : [
 		{
 		    "id"          : 1,
-                    "symbol"      : "FL",
-                    "countryName" : "Finland",
+                    "symbol"      : "US",
+                    "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdHMTAiLA0KICAiYWRkIjogIm5zMy5kaWdpdGFsb2NlYW4uY29tIiwNCiAgInBvcnQiOiAiMjA1MyIsDQogICJpZCI6ICI1YTVhYWRjMi04ODM0LTRlN2ItODk1Yi03NGFkMTU1ZmJmMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInYycmF5LmliZ2Z3LnRvcCIsDQogICJwYXRoIjogIi92Vk5VSk9nYi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidjJyYXkuaWJnZncudG9wIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiZWRnZSINCn0="
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ns3.digitalocean.com:443?encryption=none&security=tls&sni=worker-cool-cloud-87a1.roadluxmaster.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=worker-cool-cloud-87a1.roadluxmaster.workers.dev&path=%2Fzqaews#QQ1"
                 },
 		{
 		    "id"          : 2,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
+                    "symbol"      : "US",
+                    "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?encryption=none&security=tls&sni=edge.020770.xyz&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#MM10"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=hello-world-silent-voice-140d.roadluxmaster.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=hello-world-silent-voice-140d.roadluxmaster.workers.dev&path=%2Fkbinws#QQ2"
                 },
 		{
 		    "id"          : 3,
