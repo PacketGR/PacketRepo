@@ -5,14 +5,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ace.ns.cloudflare.com:443?encryption=none&security=tls&sni=favfd54gvesd7ht8r9wa8r97y9ty85g63j26mj592u6g5gbd65g92rsf5scdw9e.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=safari&type=ws&host=favfd54gvesd7ht8r9wa8r97y9ty85g63j26mj592u6g5gbd65g92rsf5scdw9e.deundra01.workers.dev&path=%2Fzqaews#MMM1"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@ace.ns.cloudflare.com:443?encryption=none&security=tls&sni=worker-cool-cloud-87a1.roadluxmaster.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=worker-cool-cloud-87a1.roadluxmaster.workers.dev&path=%2Fzqaews#QQ1"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fe4s5642sxzf48r4hyk18jm23gd18wsdws31gt8gk9621l54jd6f5gv3n9t6gf3.korissa2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=fe4s5642sxzf48r4hyk18jm23gd18wsdws31gt8gk9621l54jd6f5gv3n9t6gf3.korissa2.workers.dev&path=%2Fkbinws#MMM2"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@www.zula.ir:443?encryption=none&security=tls&sni=hello-world-summer-glitter-f4ae.bigmehrdad.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=hello-world-summer-glitter-f4ae.bigmehrdad.workers.dev&path=%2Fkbinws#BB2"
                 },
 		{
 		    "id"          : 3,
