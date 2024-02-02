@@ -33,7 +33,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@gcore.com:80?encryption=none&security=none&type=ws&host=imamkhomaini.dog&path=%2F#MOge"
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@cloudfire.ir:80?encryption=none&security=none&type=ws&host=imamkhomaini.dog&path=%2F#MOge"
                 },
 		{
 		    "id"          : 6,
