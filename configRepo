@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@www.zula.ir:443?encryption=none&security=tls&sni=wrdfg4tf8eg5h4jk8l5mnb4sa8d45f21t8tre965sd2f3vgb15h48652gfb.jerad900.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=wrdfg4tf8eg5h4jk8l5mnb4sa8d45f21t8tre965sd2f3vgb15h48652gfb.jerad900.workers.dev&path=%2Fzqaews#NN1"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@www.zula.ir:443?encryption=none&security=tls&sni=worker-cool-cloud-87a1.roadluxmaster.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=worker-cool-cloud-87a1.roadluxmaster.workers.dev&path=%2Fzqaews#QQ1%23"
                 },
 		{
 		    "id"          : 2,
