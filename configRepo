@@ -19,7 +19,7 @@
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@eleanor.ns.cloudflare.com:443?encryption=none&security=tls&sni=kj8hf5dsa26sd5f9ghj62hgfdre6tykl1kjhg6f9d5sa4d1fg2hjm1k61hgf3dd.arren52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=kj8hf5dsa26sd5f9ghj62hgfdre6tykl1kjhg6f9d5sa4d1fg2hjm1k61hgf3dd.arren52.workers.dev&path=%2Fzqaews#pp1"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@www.zula.ir:443?encryption=none&security=tls&sni=favfd54gvesd7ht8r9wa8r97y9ty85g63j26mj592u6g5gbd65g92rsf5scdw9e.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=safari&type=ws&host=favfd54gvesd7ht8r9wa8r97y9ty85g63j26mj592u6g5gbd65g92rsf5scdw9e.deundra01.workers.dev&path=%2Fzqaews#MMM1"
                 },
 		{
 		    "id"          : 4,
