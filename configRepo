@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@104.21.4.42:443?encryption=none&security=tls&sni=worker-sparkling-shadow-82ad.b4e2fb38a2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=safari&type=ws&host=worker-sparkling-shadow-82ad.b4e2fb38a2.workers.dev&path=%2Fzqaews#BB1"
+                    "config"      : "vless://3cd50e46-eadb-4a53-9886-1b5e0c6e5b76@108.162.195.22:443?encryption=none&security=tls&sni=hello-world-icy-voice-7e0dyfshedjhfszkndmhdkjgf68456556fgshjfkd.gorebbbh.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=hello-world-icy-voice-7e0dyfshedjhfszkndmhdkjgf68456556fgshjfkd.gorebbbh.workers.dev&path=%2Fzqaews#GG1"
                 },
 		{
 		    "id"          : 2,
@@ -40,7 +40,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://90c7e748-2e80-4372-b51f-1b64dfbc862f@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=Free-config-for-you111ew6j844373hdhdhhgfsdhhdh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt8.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#KK1"
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@92.223.84.84:443?encryption=none&security=tls&sni=2a03:90c0:999d::1&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=imamkhomaini.dog&path=%2F#pcsxt222"
                 },
 		{
 		    "id"          : 7,
