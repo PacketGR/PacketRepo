@@ -12,7 +12,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@amos.ns.cloudflare.com:443?encryption=none&security=tls&sni=hello-world-summer-glitter-f4ae.bigmehrdad.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=hello-world-summer-glitter-f4ae.bigmehrdad.workers.dev&path=%2Fkbinws#BB2%2B%2B%2B"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@172.67.73.174:443?encryption=none&security=tls&sni=pkjkij5k4okl4kj451uh564n8bfd78c96s3c13d59fs6g4hn6mhgk59u6yt5r9s.raysha954.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=pkjkij5k4okl4kj451uh564n8bfd78c96s3c13d59fs6g4hn6mhgk59u6yt5r9s.raysha954.workers.dev&path=%2Fkbinws#PP2"
                 },
 		{
 		    "id"          : 3,
