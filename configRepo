@@ -33,7 +33,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@auth.gcore.com:443?encryption=none&security=tls&sni=auth.gcore.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=imamkhomaini.dog&path=%2F#MOge"
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@92.38.142.30:443?encryption=none&security=tls&sni=2a03:90c0:999d::1&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhomaini.dog&path=%2F#ey5pcsxt"
                 },
 		{
 		    "id"          : 6,
