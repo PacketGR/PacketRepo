@@ -26,7 +26,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@104.16.0.0:443?encryption=none&security=tls&sni=dsfghjh52g6f54h8j5hg6sfdcxvb89c6x489f5g162hfjg4h52fgb.nakyla350.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=dsfghjh52g6f54h8j5hg6sfdcxvb89c6x489f5g162hfjg4h52fgb.nakyla350.workers.dev&path=%2Fkbinws#NN2"
+                    "config"      : "vless://eb549a6f-e94c-43c2-a945-4530e2d696eb@tapsell.ir:443?encryption=none&security=tls&sni=rtfghjdklfdxjgwshaklmdbg4vd5x32zdc4es81d65uj1nb65aqas1hjkuli64k.dodgerblue52.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=rtfghjdklfdxjgwshaklmdbg4vd5x32zdc4es81d65uj1nb65aqas1hjkuli64k.dodgerblue52.workers.dev&path=%2Fkbinws#DD2"
                 },
 		{
 		    "id"          : 5,
