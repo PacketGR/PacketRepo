@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImU1ODk4MWI2LVZNZXNzX1dTIiwNCiAgImFkZCI6ICJkaW1pdHJpcy5ucy5jbG91ZGZsYXJlLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJlNTg5ODFiNi0zNzZhLTRiYmUtODkxMC1mZmNiNmNkOWNmZWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZzZDRmNWR3YXM1NjhkczUzYTIxc3gwYTNzZDF4MjZ3ZWYyZTZkNWY5NnN2MmNzNmQ1d2Nkc2YyNnJkZzJ2Ni50dXJ0bGVncmVlbmY1Mi53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9oamxrdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImZzZDRmNWR3YXM1NjhkczUzYTIxc3gwYTNzZDF4MjZ3ZWYyZTZkNWY5NnN2MmNzNmQ1d2Nkc2YyNnJkZzJ2Ni50dXJ0bGVncmVlbmY1Mi53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkMxIiwNCiAgImFkZCI6ICJkaW1pdHJpcy5ucy5jbG91ZGZsYXJlLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJlNTg5ODFiNi0zNzZhLTRiYmUtODkxMC1mZmNiNmNkOWNmZWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZzZDRmNWR3YXM1NjhkczUzYTIxc3gwYTNzZDF4MjZ3ZWYyZTZkNWY5NnN2MmNzNmQ1d2Nkc2YyNnJkZzJ2Ni50dXJ0bGVncmVlbmY1Mi53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9oamxrdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImZzZDRmNWR3YXM1NjhkczUzYTIxc3gwYTNzZDF4MjZ3ZWYyZTZkNWY5NnN2MmNzNmQ1d2Nkc2YyNnJkZzJ2Ni50dXJ0bGVncmVlbmY1Mi53b3JrZXJzLmRldiIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
                 },
 		{
 		    "id"          : 2,
