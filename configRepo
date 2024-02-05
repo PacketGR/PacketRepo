@@ -61,14 +61,14 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://4525899f-69fe-4354-b1a2-109fee724855@ns3.digitalocean.com:8443?encryption=none&security=tls&sni=Free-config-for-you37ew6j99973hdhdhhgfsdhhdh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=gt3.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#KK3"
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.dog&path=%2F#ey5pcsxt"
                 },
 		{
 		    "id"          : 10,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJSMyIsDQogICJhZGQiOiAibnMzLmRpZ2l0YWxvY2Vhbi5jb20iLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogIjVhNWFhZGMyLTg4MzQtNGU3Yi04OTViLTc0YWQxNTVmYmYyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInYycmF5LmliZ2Z3LnRvcCIsDQogICJwYXRoIjogIi92Vk5VSk9nYi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidjJyYXkuaWJnZncudG9wIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ=="
+                    "config"      : "vless://5ccc2d5a-d010-4c5d-970b-a4621a3e5c63@docs.gcore.com:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhomaini.dog&path=%2F#pcsxt222" 
                 }
 		
 		
