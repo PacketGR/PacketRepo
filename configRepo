@@ -12,28 +12,28 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldXOCIsDQogICJhZGQiOiAiZGltaXRyaXMubnMuY2xvdWRmbGFyZS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTU4OTgxYjYtMzc2YS00YmJlLTg5MTAtZmZjYjZjZDljZmVjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ2NiZjRzNWQxNXM0ZDc4YXM0NXpjZGY0OHQ3ZXJnNDZmMWc1NGg3OHV5OWo0aHVuNmhiZzQ1ZDhydmQ1NHNlLm5ld3RvbmE0LndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL2hqbGt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZ2NiZjRzNWQxNXM0ZDc4YXM0NXpjZGY0OHQ3ZXJnNDZmMWc1NGg3OHV5OWo0aHVuNmhiZzQ1ZDhydmQ1NHNlLm5ld3RvbmE0LndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@arzdigital.com:443?encryption=none&security=tls&sni=fg4r15gf4h865e6ghdf48r55sfd845defs45f1d5fs451gf25gdh4g512gfrf4g.1o867k9904.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fg4r15gf4h865e6ghdf48r55sfd845defs45f1d5fs451gf25gdh4g512gfrf4g.1o867k9904.workers.dev&path=%2Fpxcgws#C2" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldXOSIsDQogICJhZGQiOiAidGFwc2VsbC5pciIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJlNTg5ODFiNi0zNzZhLTRiYmUtODkxMC1mZmNiNmNkOWNmZWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmZGJnam5tZmVpc2RrbWdiZmtsc2Q1MmRzZnZnNDY1aDVnNjE0OHJmdmc1NGY4ZHc2YXM0ZjQ1ejRkNHZkZGYua2Vhd2Uud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvaGpsa3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmZGJnam5tZmVpc2RrbWdiZmtsc2Q1MmRzZnZnNDY1aDVnNjE0OHJmdmc1NGY4ZHc2YXM0ZjQ1ejRkNHZkZGYua2Vhd2Uud29ya2Vycy5kZXYiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJpb3MiDQp9"
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=dsfsa52vg46d1h4t56asd1f6r6was15g45dashd4g562dafsg52nj5k26l56k56.gorebbbh.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dsfsa52vg46d1h4t56asd1f6r6was15g45dashd4g562dafsg52nj5k26l56k56.gorebbbh.workers.dev&path=%2Fpxcgws#C3"
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldXNCIsDQogICJhZGQiOiAiZGltaXRyaXMubnMuY2xvdWRmbGFyZS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTU4OTgxYjYtMzc2YS00YmJlLTg5MTAtZmZjYjZjZDljZmVjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGlza2xkbmdsZHNqaG1sZmRnNDY1ZmQ2ZjJlYzZzM2YzMnZyZjZkY3gzMnY2Y2h5MjZoM2syaTZtajVoZzZkLmFyamF5LndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL2hqbGt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiaGlza2xkbmdsZHNqaG1sZmRnNDY1ZmQ2ZjJlYzZzM2YzMnZyZjZkY3gzMnY2Y2h5MjZoM2syaTZtajVoZzZkLmFyamF5LndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ==" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@104.16.0.0:443?encryption=none&security=tls&sni=dfsg4f5dcfvb542a4sc8dvfb556fd41vb6548d56fd2vb6546f25g4b612d54fg.fhfudhvkfd.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dfsg4f5dcfvb542a4sc8dvfb556fd41vb6548d56fd2vb6546f25g4b612d54fg.fhfudhvkfd.workers.dev&path=%2Fpxcgws#C4" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ns3.digitalocean.com:443?encryption=none&security=tls&sni=baipiao118.stunning-bassoon.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=baipiao118.stunning-bassoon.pages.dev&path=%2F%3Fed%3D2048#MM3"
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@workers.dev:443?encryption=none&security=tls&sni=yjhmngf41fd4g4fdf84g5ewsdfgh8y451k2hgg2n5m6t269j42mh5g2h9gts41g.lavender53.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=yjhmngf41fd4g4fdf84g5ewsdfgh8y451k2hgg2n5m6t269j42mh5g2h9gts41g.lavender53.workers.dev&path=%2Fpxcgws#C4"
                 },
 		{
 		    "id"          : 6,
