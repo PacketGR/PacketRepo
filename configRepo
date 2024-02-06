@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldXNyIsDQogICJhZGQiOiAiYXJ6ZGlnaXRhbC5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTU4OTgxYjYtMzc2YS00YmJlLTg5MTAtZmZjYjZjZDljZmVjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhZXMtMTI4LWdjbSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZHNmZHNnNDV0ZDRoYjV2ZDR3NTNkMThzNWQ0YTZ3c2YxcjRnZjZnZjM0bm0xNWhnNGsxbTU2Z2YzNDZzZDR2LmdyYW50ZTMzLndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiL2hqbGt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZHNmZHNnNDV0ZDRoYjV2ZDR3NTNkMThzNWQ0YTZ3c2YxcjRnZjZnZjM0bm0xNWhnNGsxbTU2Z2YzNDZzZDR2LmdyYW50ZTMzLndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ==" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=wfsdgs5f5gh45fd4gh8g5fsd6sf56fs48r6e51sgd5fg485gs1g4r51gs485e1g.b4e2fb38a2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=wfsdgs5f5gh45fd4gh8g5fsd6sf56fs48r6e51sgd5fg485gs1g4r51gs485e1g.b4e2fb38a2.workers.dev&path=%2Fpxcgws#C1" 
                 },
 		{
 		    "id"          : 2,
