@@ -40,7 +40,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNDMiIsDQogICJhZGQiOiAibnMzLmRpZ2l0YWxvY2Vhbi5jb20iLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogIjVhNWFhZGMyLTg4MzQtNGU3Yi04OTViLTc0YWQxNTVmYmYyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidjJyYXkuaWJnZncudG9wIiwNCiAgInBhdGgiOiAiL3ZWTlVKT2diLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2MnJheS5pYmdmdy50b3AiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJmaXJlZm94Ig0KfQ=="
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=fgdef4d5f45r8645egg48456f5fg4856df4b85g14r8e5gf14gd85egf4b8g515.pixiea20.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fgdef4d5f45r8645egg48456f5fg4856df4b85g14r8e5gf14gd85egf4b8g515.pixiea20.workers.dev&path=%2Fpxcgws#C7" 
                 },
 		{
 		    "id"          : 7,
