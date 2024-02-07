@@ -33,7 +33,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@arzdigital.com:443?encryption=none&security=tls&sni=fdcxcfrgfbdgrth44523g45h8465h1g5f4ds125f4861g154t61hg54h61n4512.deundra01.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fdcxcfrgfbdgrth44523g45h8465h1g5f4ds125f4861g154t61hg54h61n4512.deundra01.workers.dev&path=%2Fpxcgws#C10"
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=dsfsa52vg46d1h4t56asd1f6r6was15g45dashd4g562dafsg52nj5k26l56k56.gorebbbh.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dsfsa52vg46d1h4t56asd1f6r6was15g45dashd4g562dafsg52nj5k26l56k56.gorebbbh.workers.dev&path=%2Fpxcgws#C3"
                 },
 		{
 		    "id"          : 6,
