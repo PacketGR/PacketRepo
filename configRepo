@@ -40,7 +40,7 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns2.digitalocean.com:443?encryption=none&security=tls&sni=46512265g4f1e56d1d5s41c5d21c5rdfh1gf5h1nk1mjh5k15jk15hjkhjkjhkh.daizy.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=46512265g4f1e56d1d5s41c5d21c5rdfh1gf5h1nk1mjh5k15jk15hjkhjkjhkh.daizy.workers.dev&path=%2Fpxcgws#Packet%20VPN6" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=swdfgdsjdkfmhhgd5f6nv236dfg46hng23c9d4f6s2vbc649gd6n1g9ht64jvmh.enzo-15.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=swdfgdsjdkfmhhgd5f6nv236dfg46hng23c9d4f6s2vbc649gd6n1g9ht64jvmh.enzo-15.workers.dev&path=%2Fpxcgws#Packet%20VPN18" 
                 },
 		{
 		    "id"          : 7,
