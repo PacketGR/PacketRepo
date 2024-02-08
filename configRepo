@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@www.digitalocean.com:443?encryption=none&security=tls&sni=dfsg4f5dcfvb542a4sc8dvfb556fd41vb6548d56fd2vb6546f25g4b612d54fg.fhfudhvkfd.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dfsg4f5dcfvb542a4sc8dvfb556fd41vb6548d56fd2vb6546f25g4b612d54fg.fhfudhvkfd.workers.dev&path=%2Fpxcgws#Packet%20VPN15" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=csdgftrfds2fghj451fsd54gty6hy48ge56w1d25fv4b56g12ds5f4bg5612f1w.korissa2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=csdgftrfds2fghj451fsd54gty6hy48ge56w1d25fv4b56g12ds5f4bg5612f1w.korissa2.workers.dev&path=%2Fpxcgws#Packet%20VPN21" 
                 },
 		{
 		    "id"          : 2,
