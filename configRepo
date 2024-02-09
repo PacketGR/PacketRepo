@@ -5,21 +5,21 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@104.16.0.0:443?encryption=none&security=tls&sni=dad52c32d45s26d3fg4d6g31fs6dxf2c6s5f26dv3cb63dvb2f6g2va6x2v6dxv.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dad52c32d45s26d3fg4d6g31fs6dxf2c6s5f26dv3cb63dvb2f6g2va6x2v6dxv.tammey74.workers.dev&path=%2Fpxcgws#Packet%20VPN4" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns3.digitalocean.com:443?encryption=none&security=tls&sni=edfsdgklffgvkmdsfihljksadfnhgjklmdsfknvcxjkfnmszvhjkmdcvxjklmef.keano0.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=edfsdgklffgvkmdsfihljksadfnhgjklmdsfknvcxjkfnmszvhjkmdcvxjklmef.keano0.workers.dev&path=%2Fpxcgws#Packet%20VPN5" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=hcksdmlcekdsfeds5f2c2sx4fc6ed3g2btg3nj1h3b2gred32fevd3sb6g3m063.linzy55.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=hcksdmlcekdsfeds5f2c2sx4fc6ed3g2btg3nj1h3b2gred32fevd3sb6g3m063.linzy55.workers.dev&path=%2Fpxcgws#Packet%20VPN23" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns1.digitalocean.com:443?encryption=none&security=tls&sni=fdjkzhnfksnklfcsx4c31s54fe165dg1b5f4gv1e5ds6fv1es6v15dfc2s6x3c2.charito.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fdjkzhnfksnklfcsx4c31s54fe165dg1b5f4gv1e5ds6fv1es6v15dfc2s6x3c2.charito.workers.dev&path=%2Fpxcgws#Packet%20VPN6" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=jhksdhnfvjfoeldcxcnskcjmldvfefds5321ads54cfvbcg6df312d54fes8brg.dodgerblue52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=jhksdhnfvjfoeldcxcnskcjmldvfefds5321ads54cfvbcg6df312d54fes8brg.dodgerblue52.workers.dev&path=%2Fpxcgws#Packet%20VPN24" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns2.digitalocean.com:443?encryption=none&security=tls&sni=46512265g4f1e56d1d5s41c5d21c5rdfh1gf5h1nk1mjh5k15jk15hjkhjkjhkh.daizy.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=46512265g4f1e56d1d5s41c5d21c5rdfh1gf5h1nk1mjh5k15jk15hjkhjkjhkh.daizy.workers.dev&path=%2Fpxcgws#Packet%20VPN6" 
                 },
 		{
 		    "id"          : 4,
@@ -33,21 +33,21 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns1.digitalocean.com:443?encryption=none&security=tls&sni=f84dcx5a84fe54gt5h1nh4f8g1564ws5d1cz548asw51z5c48fg154gh51n54hy.arren52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=f84dcx5a84fe54gt5h1nh4f8g1564ws5d1cz548asw51z5c48fg154gh51n54hy.arren52.workers.dev&path=%2Fpxcgws#Packet%20VPN25"
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=dfghjk45f4dc6fscaq6a5q95f6gf5ghh52gn5h2bg6526df5vb263v2v62b6vb2.fernando624.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dfghjk45f4dc6fscaq6a5q95f6gf5ghh52gn5h2bg6526df5vb263v2v62b6vb2.fernando624.workers.dev&path=%2Fpxcgws#Packet%20VPN7"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@104.16.0.0:443?encryption=none&security=tls&sni=dad52c32d45s26d3fg4d6g31fs6dxf2c6s5f26dv3cb63dvb2f6g2va6x2v6dxv.tammey74.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dad52c32d45s26d3fg4d6g31fs6dxf2c6s5f26dv3cb63dvb2f6g2va6x2v6dxv.tammey74.workers.dev&path=%2Fpxcgws#Packet%20VPN4" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@arzdigital.com:443?encryption=none&security=tls&sni=dfghfds45fcs5x4d3csc5v1f5vh2156gf1jy5hj1h56ds2wcs6x2vd6f3jg2m62.rabbit1.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dfghfds45fcs5x4d3csc5v1f5vh2156gf1jy5hj1h56ds2wcs6x2vd6f3jg2m62.rabbit1.workers.dev&path=%2Fpxcgws#Packet%20VPN7" 
                 },
 		{
 		    "id"          : 7,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://d0532e82-a576-4c0e-8354-30be302fad66@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.com&path=%2F%3Fed%3D2048#PacketVPN2" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@blog.hostmonit.com:443?encryption=none&security=tls&sni=dgfhjg5s62d9n65b6c565xvg5j6kil5opo6ijhg5fd26s326sdf206jg32hjdfg.romie3.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dgfhjg5s62d9n65b6c565xvg5j6kil5opo6ijhg5fd26s326sdf206jg32hjdfg.romie3.workers.dev&path=%2Fpxcgws#Packet%20VPN8" 
                 },
 		{
 		    "id"          : 8,
