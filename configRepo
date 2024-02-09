@@ -33,7 +33,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns1.digitalocean.com:443?encryption=none&security=tls&sni=dsfghfdwe5dfg23r5e6f2gh2jgy46hgfd2s6fg4h13g6d94s613fg1hn46g13fg.shahid05.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dsfghfdwe5dfg23r5e6f2gh2jgy46hgfd2s6fg4h13g6d94s613fg1hn46g13fg.shahid05.workers.dev&path=%2Fpxcgws#Packet%20VPN17"
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns1.digitalocean.com:443?encryption=none&security=tls&sni=f84dcx5a84fe54gt5h1nh4f8g1564ws5d1cz548asw51z5c48fg154gh51n54hy.arren52.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=f84dcx5a84fe54gt5h1nh4f8g1564ws5d1cz548asw51z5c48fg154gh51n54hy.arren52.workers.dev&path=%2Fpxcgws#Packet%20VPN25"
                 },
 		{
 		    "id"          : 6,
