@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dwsayhfcuejksajnfmkcdfgbf2df54cs6d35f4hg1t5bd3s1df5gdf321s6g5b2.susie42.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dwsayhfcuejksajnfmkcdfgbf2df54cs6d35f4hg1t5bd3s1df5gdf321s6g5b2.susie42.workers.dev&path=%2Fldthws#Packet%20VPN1" 
+                    "config"      : "vless://d28f6847-b161-4900-b279-e8d1346c4f39@gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhameneifather.dog&path=%2F#xrj1wnv999" 
                 },
 		{
 		    "id"          : 2,
@@ -54,7 +54,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://d0532e82-a576-4c0e-8354-30be302fad66@www.gcore.com:443?encryption=none&security=tls&sni=::ffff:8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=imamkhomaini.com&path=%2F%3Fed%3D2048#PacketVPN1"
+                    "config"      : "vless://d28f6847-b161-4900-b279-e8d1346c4f39@gcore.com:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhameneifather.dog&path=%2F#xrj1wnv9" 
                 },
 		{
 		    "id"          : 9,
