@@ -61,14 +61,14 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=fhsjdkhfnklsdfklsdflsa5f6sa1c35s4fcedg2t4hy4jy56jk1mn5bfdcvdxv1.neele2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=fhsjdkhfnklsdfklsdflsa5f6sa1c35s4fcedg2t4hy4jy56jk1mn5bfdcvdxv1.neele2.workers.dev&path=%2Fpxcgws#Packet%20VPN9"
+                    "config"      : "vless://6d101753-db2e-4ae4-a5fd-77e4d7527d20@gcore.com:443?encryption=none&security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=iran-pars.com&path=%2F#ubr4s5uy1111111"
                 },
 		{
 		    "id"          : 10,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@104.16.0.0:443?encryption=none&security=tls&sni=rfsdkjlkdmslcgf45dsf48g4fjnbd86sf4vsdxcbd6zfc5dhnh5j4u8j5k4jnf5.arjay.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=rfsdkjlkdmslcgf45dsf48g4fjnbd86sf4vsdxcbd6zfc5dhnh5j4u8j5k4jnf5.arjay.workers.dev&path=%2Fpxcgws#Packet%20VPN10" 
+                    "config"      : "vless://6d101753-db2e-4ae4-a5fd-77e4d7527d20@gcore.com:443?encryption=none&security=tls&sni=8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=iran-pars.com&path=%2F#ubr4s5uy2222222" 
                 },
 		{
 		    "id"          : 11,
