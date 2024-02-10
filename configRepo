@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns1.digitalocean.com:443?encryption=none&security=tls&sni=dfegdhfg456efgb854f1g5fb4g8t54h56d4cv5f4h8tg64uj8564h8t5g64h856.julissa3.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dfegdhfg456efgb854f1g5fb4g8t54h56d4cv5f4h8tg64uj8564h8t5g64h856.julissa3.workers.dev&path=%2Fpxcgws#Packet%20VPN12" 
+                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@ns1.digitalocean.com:443?encryption=none&security=tls&sni=dsfghfdwe5dfg23r5e6f2gh2jgy46hgfd2s6fg4h13g6d94s613fg1hn46g13fg.shahid05.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dsfghfdwe5dfg23r5e6f2gh2jgy46hgfd2s6fg4h13g6d94s613fg1hn46g13fg.shahid05.workers.dev&path=%2Fpxcgws#Packet%20VPN17" 
                 },
 		{
 		    "id"          : 2,
