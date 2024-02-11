@@ -26,14 +26,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=fgrhtjm4gfr3d12gj4k5hg231fds468af53g12hf6s45fd31g4t6r3es1f3hgde.rodgers.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fgrhtjm4gfr3d12gj4k5hg231fds468af53g12hf6s45fd31g4t6r3es1f3hgde.rodgers.workers.dev&path=%2Fldthws#Packet%20VPN4" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&path=%2Fldthws#Packet%20VPN5" 
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=fgrhtjm4gfr3d12gj4k5hg231fds468af53g12hf6s45fd31g4t6r3es1f3hgde.rodgers.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fgrhtjm4gfr3d12gj4k5hg231fds468af53g12hf6s45fd31g4t6r3es1f3hgde.rodgers.workers.dev&path=%2Fldthws#Packet%20VPN4"
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vdfgjtseda45dfw231g4r8eswe14tt651sedad4f8gh56f1sd54f85g12deaw54.rus1.workers.dev&path=%2Fldthws#Packet%20VPN5"
                 },
 		{
 		    "id"          : 6,
