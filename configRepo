@@ -40,14 +40,14 @@
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@arzdigital.com:443?encryption=none&security=tls&sni=dfghfds45fcs5x4d3csc5v1f5vh2156gf1jy5hj1h56ds2wcs6x2vd6f3jg2m62.rabbit1.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dfghfds45fcs5x4d3csc5v1f5vh2156gf1jy5hj1h56ds2wcs6x2vd6f3jg2m62.rabbit1.workers.dev&path=%2Fpxcgws#Packet%20VPN7" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&path=%2Fldthws#PacketVPN9" 
                 },
 		{
 		    "id"          : 7,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://2579a8be-434c-4375-b901-939acfdb1f89@tapsell.ir:443?encryption=none&security=tls&sni=yjhmngf41fd4g4fdf84g5ewsdfgh8y451k2hgg2n5m6t269j42mh5g2h9gts41g.lavender53.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=yjhmngf41fd4g4fdf84g5ewsdfgh8y451k2hgg2n5m6t269j42mh5g2h9gts41g.lavender53.workers.dev&path=%2Fpxcgws#Packet%20VPN16" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&path=%2Fldthws#PacketVPN10" 
                 },
 		{
 		    "id"          : 8,
