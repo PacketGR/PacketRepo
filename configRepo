@@ -19,14 +19,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      :  "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fnb4v5gfdgh6j4h31gfd6s5a34d1f6r4d1f6534g2f5gdf42fd6a3sfg21f6d3f.rosmery151.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fnb4v5gfdgh6j4h31gfd6s5a34d1f6r4d1f6534g2f5gdf42fd6a3sfg21f6d3f.rosmery151.workers.dev&path=%2Fldthws#Packet%20VPN3" 
+                    "config"      :  "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dauisihfuidshigsdgf3d54f8es84f5d1vg5df41g56df4g6f4dg56vcf1b8df4.daizy.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dauisihfuidshigsdgf3d54f8es84f5d1vg5df41g56df4g6f4dg56vcf1b8df4.daizy.workers.dev&path=%2F#TRo3" 
                 },
 		{
 		    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=fgrhtjm4gfr3d12gj4k5hg231fds468af53g12hf6s45fd31g4t6r3es1f3hgde.rodgers.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fgrhtjm4gfr3d12gj4k5hg231fds468af53g12hf6s45fd31g4t6r3es1f3hgde.rodgers.workers.dev&path=%2Fldthws#Packet%20VPN4" 
+                    "config"      : "vless://f4e322a6-7820-4f20-865c-6c2a3b702de3@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=dascfmhjk4564f8se4td4h685d1f1gh6j5g1hg6drc41hg61h56f1g5fd1g46c6.fernando624.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dascfmhjk4564f8se4td4h685d1f1gh6j5g1hg6drc41hg61h56f1g5fd1g46c6.fernando624.workers.dev&path=%2F#TRo4" 
                 },
 		{
 		    "id"          : 5,
