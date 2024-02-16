@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      :  "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@tapsell.ir:443?encryption=none&security=tls&sni=sdfuijklsfddsfbgv4f5d123gb4nbf51d46g15fd4d15s45gd145g14g851ds54.corwinf24.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sdfuijklsfddsfbgv4f5d123gb4nbf51d46g15fd4d15s45gd145g14g851ds54.corwinf24.workers.dev&path=%2Fldthws#PacketVPN8" 
+                    "config"      :  "vless://19e5b0c0-14f7-4692-9d57-a1f0477b9209@who.int:443?encryption=none&security=tls&sni=ewrjhknsdhcfsjehfklsjnfklsjdmflksdfsd1f3sd5f4s1g65f1gb65g1635f4.korissa2.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=ewrjhknsdhcfsjehfklsjnfklsjdmflksdfsd1f3sd5f4s1g65f1gb65g1635f4.korissa2.workers.dev&path=%2Fozrgws#2424" 
                 },
 		{
 		    "id"          : 2,
