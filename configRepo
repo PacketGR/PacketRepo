@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://39074dbb-0ef5-47b4-ba21-9a971a7f932c@hgdkdljshaklfjlesakjtglrskjgosrkjhylrdht2d3h21f4uh6rf1h5tf1h56t.bigmehrdad.workers.dev:443?encryption=none&security=tls&sni=hgdkdljshaklfjlesakjtglrskjgosrkjhylrdht2d3h21f4uh6rf1h5tf1h56t.bigmehrdad.workers.dev&alpn=h2&fp=ios&type=ws&host=hgdkdljshaklfjlesakjtglrskjgosrkjhylrdht2d3h21f4uh6rf1h5tf1h56t.bigmehrdad.workers.dev&path=%2Fneoaws#39074dbb" 
+                    "config"      : "vless://39074dbb-0ef5-47b4-ba21-9a971a7f932c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=hgdkdljshaklfjlesakjtglrskjgosrkjhylrdht2d3h21f4uh6rf1h5tf1h56t.bigmehrdad.workers.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=hgdkdljshaklfjlesakjtglrskjgosrkjhylrdht2d3h21f4uh6rf1h5tf1h56t.bigmehrdad.workers.dev&path=%2Fneoaws#39074dbb" 
                 },
 		{
 		    "id"          : 2,
