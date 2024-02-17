@@ -5,14 +5,14 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@repo.steampowered.com:443?encryption=none&security=tls&sni=fgsdjgfukdshfklsahfkljsalkfdsa4d534sa534d153sa54f15ea4f16zs4f1e.bigmehrdad.workers.dev&fp=android&type=ws&host=fgsdjgfukdshfklsahfkljsalkfdsa4d534sa534d153sa54f15ea4f16zs4f1e.bigmehrdad.workers.dev&path=%2F#xxxx" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dwsayhfcuejksajnfmkcdfgbf2df54cs6d35f4hg1t5bd3s1df5gdf321s6g5b2.susie42.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dwsayhfcuejksajnfmkcdfgbf2df54cs6d35f4hg1t5bd3s1df5gdf321s6g5b2.susie42.workers.dev&path=%2Fldthws#Packet%20VPN1" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sfashaghdgbsjabdjksad5sa256d486s4sa1c564sw98de48sf4eds4c6sac5xz.b4e2fb38a2.workers.dev&path=%2Fldthws#PacketVPN9" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns1.digitalocean.com:443?encryption=none&security=tls&sni=dsahgdujksahnfmdsxfc1ds45x74cd1xs241v56s32c5sx1c5ds3a21c5sxz231.kareem4.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dsahgdujksahnfmdsxfc1ds45x74cd1xs241v56s32c5sx1c5ds3a21c5sxz231.kareem4.workers.dev&path=%2Fldthws#Packet%20VPN2" 
                 },
 		{
 		    "id"          : 3,
