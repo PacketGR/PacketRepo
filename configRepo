@@ -54,21 +54,21 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://d28f6847-b161-4900-b279-e8d1346c4f39@gcore.com:443?encryption=none&security=tls&sni=::ffff:85.15.1.14&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=imamkhameneifather.dog&path=%2F#xrj1wnv9" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=dfgfd51zsx2a548df5gs81gf23b54f8sed21gvb54cdsa12f5bg4sda125fv4bg.erina-3f2.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=dfgfd51zsx2a548df5gs81gf23b54f8sed21gvb54cdsa12f5bg4sda125fv4bg.erina-3f2.workers.dev&path=%2Fldthws#Packet%20VPN7" 
                 },
 		{
 		    "id"          : 9,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://6d101753-db2e-4ae4-a5fd-77e4d7527d20@gcore.com:443?encryption=none&security=tls&sni=10.10.34.36&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=iran-pars.com&path=%2F#ubr4s5uy1111111"
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@tapsell.ir:443?encryption=none&security=tls&sni=sdfuijklsfddsfbgv4f5d123gb4nbf51d46g15fd4d15s45gd145g14g851ds54.corwinf24.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sdfuijklsfddsfbgv4f5d123gb4nbf51d46g15fd4d15s45gd145g14g851ds54.corwinf24.workers.dev&path=%2Fldthws#PacketVPN8" 
                 },
 		{
 		    "id"          : 10,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://6d101753-db2e-4ae4-a5fd-77e4d7527d20@gcore.com:443?encryption=none&security=tls&sni=8.8.4.4&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=iran-pars.com&path=%2F#ubr4s5uy2222222" 
+                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns2.digitalocean.com:443?encryption=none&security=tls&sni=sdfgh451ef4rghj54eyt564re512sdf51fs561g5d1g56ea1f5was4d8w1af2sd.shahid05.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sdfgh451ef4rghj54eyt564re512sdf51fs561g5d1g56ea1f5was4d8w1af2sd.shahid05.workers.dev&path=%2Fldthws#PacketVPN13" 
                 },
 		{
 		    "id"          : 11,
