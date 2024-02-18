@@ -5,7 +5,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@arzdigital.com:443?encryption=none&security=tls&sni=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=swdfg464fg654bdf45es4rf8e4gb541h5fg4j18u674k8tr4ge56s4f6sd4gv56.1o867k9904.workers.dev&path=%2Fldthws#PacketVPN10" 
+                    "config"      : "vless://32fd2067-ee61-4029-8880-0aed15a886fb@pkg.cloudflareclient.com:443?encryption=none&security=tls&sni=dwfsgfhjk4513d4fg5fh415se4f5sr4y56t4y561fbg23d1fes54fres64tg56r.rabbit1.workers.dev&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=dwfsgfhjk4513d4fg5fh415se4f5sr4y56t4y561fbg23d1fes54fres64tg56r.rabbit1.workers.dev&path=%2F#test" 
                 },
 		{
 		    "id"          : 2,
