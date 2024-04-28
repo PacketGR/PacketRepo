@@ -3,116 +3,24 @@
 		{
 		    "id"          : 1,
                     "symbol"      : "US",
-                    "countryName" :  "کاربر گرامی برنامه شما بروز نیست",
+                    "countryName" :  "کاربر گرامی این تسخه غیر فعال شده است",
                     "ping"        : 0,
-                    "config"      :  "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dwsayhfcuejksajnfmkcdfgbf2df54cs6d35f4hg1t5bd3s1df5gdf321s6g5b2.susie42.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dwsayhfcuejksajnfmkcdfgbf2df54cs6d35f4hg1t5bd3s1df5gdf321s6g5b2.susie42.workers.dev&path=%2Fldthws#Packet%20VPN1" 
+                    "config"      :  "vless://ee16b0e2-3b4a-4911-b28e-7d3a10b5eaac@89.33.85.188:443?encryption=none&security=reality&sni=google.com&fp=randomized&pbk=lWiJXTIPkgTxUriCyth2-LfXzJERkwmduSOob732rUI&sid=1b80a3d6&spx=%2Fsearch%3Fsca_esv%3D3e5ddf52b76d97c4%26sca_upv%3D1%26sxsrf%3DACQVn0-0700S_13av66w36C51Rz-0VOb-w%3A1713957547125%26q%3Dfghi%20ugigiugi%26spell%3D1%26sa%3DX%26ved%3D2ahUKEwiPnYa23dqFAxV08AIHHYkCDmoQBSgAegQICRAC%26biw%3D1280%26bih%3D593%26dpr%3D1.5&type=tcp&headerType=http&host=xn--mgbaa9bbbbacdbcb5sdcce78weade.colocrossing.top.#jfnx37dl" 
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
-                    "countryName" : "لطفا برنامه خود را از گوگل پلی بروزرسانی کنید",
+                    "countryName" : "لطفا برای استفاده برنامه خود را از گوگل پلی بروزرسانی کنید",
                     "ping"        : 0,
-                    "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fgysuaikdgijekmdfsgrewdcf4ds845f4v8g65t1yh5g845f1ds54fv1b25sd41.gorebbbh.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fgysuaikdgijekmdfsgrewdcf4ds845f4v8g65t1yh5g845f1ds54fv1b25sd41.gorebbbh.workers.dev&path=%2Fldthws#PacketVPN11" 
+                    "config"      : "vless://ee16b0e2-3b4a-4911-b28e-7d3a10b5eaac@89.33.85.188:443?encryption=none&security=reality&sni=google.com&fp=randomized&pbk=lWiJXTIPkgTxUriCyth2-LfXzJERkwmduSOob732rUI&sid=1b80a3d6&spx=%2Fsearch%3Fsca_esv%3D3e5ddf52b76d97c4%26sca_upv%3D1%26sxsrf%3DACQVn0-0700S_13av66w36C51Rz-0VOb-w%3A1713957547125%26q%3Dfghi%20ugigiugi%26spell%3D1%26sa%3DX%26ved%3D2ahUKEwiPnYa23dqFAxV08AIHHYkCDmoQBSgAegQICRAC%26biw%3D1280%26bih%3D593%26dpr%3D1.5&type=tcp&headerType=http&host=xn--mgbaa9bbbbacdbcb5sdcce78weade.colocrossing.top.#jfnx37dl" 
                 },
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
-                    "countryName" : "دسترسی شما تا چند روز دیگر قطع خواهد شد",
+                    "countryName" : "لطفا Packet VPN را در گوگل پلی جست و جو کنید",
                     "ping"        : 0,
-                    "config"      :  "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fnb4v5gfdgh6j4h31gfd6s5a34d1f6r4d1f6534g2f5gdf42fd6a3sfg21f6d3f.rosmery151.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fnb4v5gfdgh6j4h31gfd6s5a34d1f6r4d1f6534g2f5gdf42fd6a3sfg21f6d3f.rosmery151.workers.dev&path=%2Fldthws#Packet%20VPN3" 
-                },
-		{
-		    "id"          : 4,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://187a0ac8-6dcb-4f58-8b0b-920470463534@ns1.digitalocean.com:443?encryption=none&security=tls&sni=kjlpkgtesd68a4gh85s4rf8g56x4dg65xsd41fezsd41g65xs4d1g64x1dgv41s.elfrida-ef9.WoRKERS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=kjlpkgtesd68a4gh85s4rf8g56x4dg65xsd41fezsd41g65xs4d1g64x1dgv41s.elfrida-ef9.WoRKERS.DEV&path=vless-ws%2F%3Fed%3D2048#V1" 
-                },
-		{
-		    "id"          : 5,
-                    "symbol"      : "UK",
-                    "countryName" : "United Kingdom",
-                    "ping"        : 0,
-                    "config"      : "vless://673c6617-3610-487a-b51b-4f31927eec52@ns2.digitalocean.com:443?encryption=none&security=tls&sni=esrdtfygjuhdsawedfshgds4f6g5x4dsfv86sdx4g68dx4f86sx5d4g6xd4g6d8.alexanderb4.wOrkeRS.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=esrdtfygjuhdsawedfshgds4f6g5x4dsfv86sdx4g68dx4f86sx5d4g6xd4g6d8.alexanderb4.wOrkeRS.dEv&path=vless-ws%2F%3Fed%3D2048#V2"
-                },
-		{
-		    "id"          : 6,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
-                    "ping"        : 0,
-                    "config"      : "vless://799a8617-44dd-4872-ac4f-ed1335ae217a@ns3.digitalocean.com:443?encryption=none&security=tls&sni=dasuihfiksdhnfklrsdxgs6d4fv8se64gv5xfd41gb5fx4gb58fx41gb654f86g.neele2.WORKErs.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=dasuihfiksdhnfklrsdxgs6d4fv8se64gv5xfd41gb5fx4gb58fx41gb654f86g.neele2.WORKErs.DEv&path=vless-ws%2F%3Fed%3D2048#V3" 
-                },
-		{
-		    "id"          : 7,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
-                    "ping"        : 0,
-                    "config"      :  "vless://bb6d8324-58ab-4e84-8b1f-85b9720f60ea@ns1.digitalocean.com:443?encryption=none&security=tls&sni=cdzsfdsfdsfds54fe6sd4ef6esd4fe4sd8f48s4fse64f84s6f4s64fs64fs6f4.sally42.WorKerS.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=cdzsfdsfdsfds54fe6sd4ef6esd4fe4sd8f48s4fse64f84s6f4s64fs64fs6f4.sally42.WorKerS.DEV&path=vless-ws%2F%3Fed%3D2048#V4" 
-                },
-		{
-		    "id"          : 8,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
-                    "ping"        : 0,
-                    "config"      : "vless://4a8049b1-09b5-4a8e-9d5a-7298ad2753e6@ns2.digitalocean.com:443?encryption=none&security=tls&sni=sdfhgj4h8t6f4dg8dr4xg85dx4g96frx84dgd4xg84dr4gd4grd41g4d4g1d6g4.akili2.workerS.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=sdfhgj4h8t6f4dg8dr4xg85dx4g96frx84dgd4xg84dr4gd4grd41g4d4g1d6g4.akili2.workerS.deV&path=vless-ws%2F%3Fed%3D2048#V5" 
-                },
-		{
-		    "id"          : 9,
-                    "symbol"      : "SW",
-                    "countryName" : "Sweden",
-                    "ping"        : 0,
-                    "config"      : "vless://55d16410-7d6b-4707-8f8d-c799b1ea706f@ns3.digitalocean.com:443?encryption=none&security=tls&sni=fsgcvhkbgfd4z6sg68xf41g654x1d56gf4v1xd56g416xd4g16x8d41g6xf41g5.spanishred34.wORkeRs.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=fsgcvhkbgfd4z6sg68xf41g654x1d56gf4v1xd56g416xd4g16x8d41g6xf41g5.spanishred34.wORkeRs.dEV&path=vless-ws%2F%3Fed%3D2048#V6" 
-                },
-		{
-		    "id"          : 10,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://e23c5f54-7677-4d93-956a-e3f5b4e22511@ns1.digitalocean.com:443?encryption=none&security=tls&sni=fcsdklnfkldsjflksdjkfljsdxklvmkfdlmkvglxdmg56465f41s5641f6s5d4f.zaylynn31.wOrkeRs.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=fcsdklnfkldsjflksdjkfljsdxklvmkfdlmkvglxdmg56465f41s5641f6s5d4f.zaylynn31.wOrkeRs.dEV&path=vless-ws%2F%3Fed%3D2048#V7" 
-                },
-		{
-		    "id"          : 11,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
-                    "ping"        : 0,
-                    "config"      : "vless://bd054b75-c406-43da-b1be-3b45391cfac0@ns2.digitalocean.com:443?encryption=none&security=tls&sni=dksjhnfjkdszjfkldsfdsf4ds54f15ds3f415dz34f6sd5f41s65f1s564f1s56.jeylahf5.WOrKERs.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=dksjhnfjkdszjfkldsfdsf4ds54f15ds3f415dz34f6sd5f41s65f1s564f1s56.jeylahf5.WOrKERs.dev&path=vless-ws%2F%3Fed%3D2048#V8" 
-                },
-		{
-		    "id"          : 12,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://d1c8ec7b-ddad-48fd-947f-a2f6b2103202@ns3.digitalocean.com:443?encryption=none&security=tls&sni=fghujgfghfh6gf54hb865f4h6gf4h65f4gh86fg4h6gf4hgf4h5gf4h56f4h56g.maryama-00.wOrKErs.DEv&alpn=http%2F1.1&fp=randomized&type=ws&host=fghujgfghfh6gf54hb865f4h6gf4h65f4gh86fg4h6gf4hgf4h5gf4h56f4h56g.maryama-00.wOrKErs.DEv&path=vless-ws%2F%3Fed%3D2048#V9" 
-                },
-		{
-		    "id"          : 13,
-                    "symbol"      : "FL",
-                    "countryName" : "Finland",
-                    "ping"        : 0,
-                    "config"      : "vless://28541950-c991-4d8e-8b73-a0610d0e8310@ns1.digitalocean.com:443?encryption=none&security=tls&sni=efgrgdc5sd45esdfs4d86g54brd84bg6dx4gfs4dfs564f6sd4f6d4g64dcx6g4.shawana5.WoRkErs.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=efgrgdc5sd45esdfs4d86g54brd84bg6dx4gfs4dfs564f6sd4f6d4g64dcx6g4.shawana5.WoRkErs.deV&path=vless-ws%2F%3Fed%3D2048#V10" 
-                },
-		{
-		    "id"          : 14,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
-                    "ping"        : 0,
-                    "config"      : "vless://aa263541-3d92-4678-80e7-029bf6337093@ns2.digitalocean.com:443?encryption=none&security=tls&sni=asdfhjgfdserfgttf45dg4g6d4g65df4g56fd4gb5f415hb6fd1h56df41gb5df.turtlegreenf52.wOrKers.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=asdfhjgfdserfgttf45dg4g6d4g65df4g56fd4gb5f415hb6fd1h56df41gb5df.turtlegreenf52.wOrKers.deV&path=vless-ws%2F%3Fed%3D2048#V11" 
-                },
-		{
-		    "id"          : 14,
-                    "symbol"      : "SW",
-                    "countryName" : "Sweden",
-                    "ping"        : 0,
-                    "config"      : "vless://4aa6340f-6055-496b-b67e-89a35262dbeb@ns3.digitalocean.com:443?encryption=none&security=tls&sni=wdfegrtjhgfrf5gc645f4g56s4dg56s4dg56s4d5g4ds5g4sg465sd4g65sd4gs.maximumredc5.WORkErs.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=wdfegrtjhgfrf5gc645f4g56s4dg56s4dg56s4d5g4ds5g4sg465sd4g65sd4gs.maximumredc5.WORkErs.dEV&path=vless-ws%2F%3Fed%3D2048#V12" 
-                },
-		{
-		    "id"          : 15,
-                    "symbol"      : "DN",
-                    "countryName" : "Denmark",
-                    "ping"        : 0,
-                    "config"      : "vless://14284925-e784-4e19-9746-732aa778922d@ns1.digitalocean.com:443?encryption=none&security=tls&sni=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&alpn=http%2F1.1&fp=randomized&type=ws&host=helgfklsdjgldfgmklfdgfd5g4fdc3v56fd4g56fd4g5fd4g56fd4c1df4g65df.camora.wORKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#V13" 
+                    "config"      :  "vless://ee16b0e2-3b4a-4911-b28e-7d3a10b5eaac@89.33.85.188:443?encryption=none&security=reality&sni=google.com&fp=randomized&pbk=lWiJXTIPkgTxUriCyth2-LfXzJERkwmduSOob732rUI&sid=1b80a3d6&spx=%2Fsearch%3Fsca_esv%3D3e5ddf52b76d97c4%26sca_upv%3D1%26sxsrf%3DACQVn0-0700S_13av66w36C51Rz-0VOb-w%3A1713957547125%26q%3Dfghi%20ugigiugi%26spell%3D1%26sa%3DX%26ved%3D2ahUKEwiPnYa23dqFAxV08AIHHYkCDmoQBSgAegQICRAC%26biw%3D1280%26bih%3D593%26dpr%3D1.5&type=tcp&headerType=http&host=xn--mgbaa9bbbbacdbcb5sdcce78weade.colocrossing.top.#jfnx37dl" 
                 }
-		
 		
 		
 		
